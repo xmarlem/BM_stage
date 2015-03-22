@@ -1,0 +1,224 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+//
+// Component: Panel
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@panel-title-margin-bottom:                         @global-margin;
+@panel-title-font-size:                             @base-h3-font-size;
+@panel-title-line-height:                           @base-h3-line-height;
+@panel-title-color:                                 @global-heading-color;
+@panel-title-text-transform:                        @global-text-transform;
+
+@panel-box-padding:                                 30px;
+@panel-box-background:                              #fff;
+@panel-box-color:                                   @global-color;
+@panel-box-title-color:                             @global-heading-color;
+@panel-box-badge-top:                               @panel-box-padding + 5px;
+@panel-box-badge-right:                             @panel-box-padding ;
+
+@panel-box-primary-background:                      @global-primary-background;
+@panel-box-primary-color:                           fade(@global-contrast-color, 75%);
+@panel-box-primary-title-color:                     @global-contrast-color;
+
+@panel-box-secondary-background:                    #444;
+@panel-box-secondary-color:                         @global-contrast-color;
+@panel-box-secondary-title-color:                   @global-contrast-color;
+
+@panel-header-title-padding:                        25px;
+@panel-header-title-border:                         @global-border;
+@panel-header-title-border-width:                   @global-border-width;
+@panel-header-title-color:                          @global-heading-color;
+
+@panel-divider-gutter:                              @global-grid-gutter;
+@panel-divider-gutter-large:                        @global-grid-gutter-large;
+@panel-divider-border:                              @global-border;
+@panel-divider-border-width:                        @global-border-width;
+
+//
+// New
+//
+
+@panel-box-border-width:                            5px;
+@panel-box-border-style:                            solid;
+
+@panel-box-border-top:                              @panel-box-background;
+@panel-box-border-right:                            @panel-box-background;
+@panel-box-border-bottom:                           @panel-box-background;
+@panel-box-border-left:                             @panel-box-background;
+
+@panel-box-primary-link-color:                      @global-contrast-color;
+@panel-box-primary-link-hover-color:                #444;
+@panel-box-primary-border-top:                      darken(@panel-box-primary-background, 1%);
+@panel-box-primary-border-right:                    darken(@panel-box-primary-background, 3%);
+@panel-box-primary-border-bottom:                   darken(@panel-box-primary-background, 5%);
+@panel-box-primary-border-left:                     darken(@panel-box-primary-background, 3%);
+@panel-box-primary-badge-border:                    fade(@global-contrast-color, 50%);
+@panel-box-primary-badge-color:                     @global-contrast-color;
+@panel-box-primary-button-border:                   fade(@global-contrast-color, 70%);
+@panel-box-primary-button-color:                    fade(@global-contrast-color, 70%);
+@panel-box-primary-button-hover-border:             @global-contrast-color;
+@panel-box-primary-button-hover-color:              @global-contrast-color;
+
+@panel-box-secondary-border-top:                    darken(@panel-box-secondary-background, 1%);
+@panel-box-secondary-border-right:                  darken(@panel-box-secondary-background, 3%);
+@panel-box-secondary-border-bottom:                 darken(@panel-box-secondary-background, 7%);
+@panel-box-secondary-border-left:                   darken(@panel-box-secondary-background, 3%);
+@panel-box-secondary-badge-border:                  fade(@global-contrast-color, 30%);
+@panel-box-secondary-badge-color:                   @global-contrast-color;
+@panel-box-secondary-button-border:                 fade(@global-contrast-color, 70%);
+@panel-box-secondary-button-color:                  fade(@global-contrast-color, 70%);
+@panel-box-secondary-button-hover-border:           @global-contrast-color;
+@panel-box-secondary-button-hover-color:            @global-contrast-color;
+
+@panel-header-title-border-length:                  40px;
+
+
+// Sub-object: `uk-panel-title`
+// ========================================================================
+
+.hook-panel-title() {}
+
+
+// Sub-object: `uk-panel-badge`
+// ========================================================================
+
+.hook-panel-badge() {
+    + .uk-panel-title { padding-right: 50px; }
+}
+
+
+// Modifier: `uk-panel-box`
+// ========================================================================
+
+.hook-panel-box() {
+    border-width: @panel-box-border-width;
+    border-style: @panel-box-border-style;
+    border-top-color: @panel-box-border-top;
+    border-right-color: @panel-box-border-right;
+    border-bottom-color: @panel-box-border-bottom;
+    border-left-color: @panel-box-border-left;
+}
+
+//
+// Sub-modifier: `uk-panel-box-primary`
+//
+
+.hook-panel-box-primary() {
+
+    border-top-color: @panel-box-primary-border-top;
+    border-right-color: @panel-box-primary-border-right;
+    border-bottom-color: @panel-box-primary-border-bottom;
+    border-left-color: @panel-box-primary-border-left;
+
+    a { color: @panel-box-primary-link-color; }
+
+    > a:hover,
+    > a:not([class]):hover,
+    > :not([class*='uk-nav']) a:not([class]):hover { color: @panel-box-primary-link-hover-color; }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 { color: @global-contrast-color; }
+
+    /* Badge */
+    .uk-badge {
+        border-color: @panel-box-primary-badge-border;
+        color: @panel-box-primary-badge-color;
+    }
+
+    /* Button */
+    .uk-button {
+
+        border-color: @panel-box-primary-button-border;
+        color: @panel-box-primary-button-color;
+
+        &:hover {
+            border-color: @panel-box-primary-button-hover-border;
+            color: @panel-box-primary-button-hover-color;
+        }
+
+    }
+
+}
+
+//
+// Sub-modifier: `uk-panel-box-secondary`
+//
+
+.hook-panel-box-secondary() {
+
+    border-top-color: @panel-box-secondary-border-top;
+    border-right-color: @panel-box-secondary-border-right;
+    border-bottom-color: @panel-box-secondary-border-bottom;
+    border-left-color: @panel-box-secondary-border-left;
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 { color: @global-contrast-color; }
+
+    /* Badge */
+    .uk-badge {
+        border-color: @panel-box-secondary-badge-border;
+        color: @panel-box-secondary-badge-color;
+    }
+
+    /* Button */
+    .uk-button {
+
+        border-color: @panel-box-secondary-button-border;
+        color: @panel-box-secondary-button-color;
+
+        &:hover {
+            border-color: @panel-box-secondary-button-hover-border;
+            color: @panel-box-secondary-button-hover-color;
+        }
+
+    }
+
+}
+
+
+// Modifier: `uk-panel-header`
+// ========================================================================
+
+.hook-panel-header() {
+    border-bottom: none;
+    text-align: center;
+    margin-bottom: @panel-header-title-padding;
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-panel-misc() {
+
+    /* Modifier: `uk-panel-header`
+     ========================================================================== */
+
+    .uk-panel-header .uk-panel-title:after {
+        content: "";
+        display: block;
+        position: absolute;
+        left: 50%;
+        width: @panel-header-title-border-length;
+        margin-top: @panel-header-title-padding - @panel-header-title-border-width;
+        margin-left: -(@panel-header-title-border-length / 2);
+        border-top: @panel-header-title-border-width solid @panel-header-title-border;
+    }
+
+    .uk-panel-header .uk-panel-badge + .uk-panel-title { margin-left: 50px; }
+
+}

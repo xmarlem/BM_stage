@@ -1,0 +1,111 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+//
+// Component: Grid
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@grid-gutter-horizontal:                        @global-grid-gutter;
+@grid-gutter-vertical:                          @global-grid-gutter;
+
+@grid-gutter-large-horizontal:                  @global-grid-gutter-large;
+@grid-gutter-large-vertical:                    @global-grid-gutter-large;
+
+@grid-divider-border:                           @global-border;
+@grid-divider-border-width:                     @global-border-width;
+
+//
+// New
+//
+
+@grid-divider-border-style:                     dotted;
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-grid-misc() {
+
+
+    /* Modifier: `uk-grid-divider`
+     ========================================================================== */
+
+    /*
+     * Horizontal divider
+     * Does not work with `uk-push-*`, `uk-pull-*` and not if the columns float into the next row
+     */
+
+    .uk-grid-divider > [class*='uk-width-1-']:not(.uk-width-1-1):nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-2-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-3-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-4-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-5-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-6-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-7-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-8-']:nth-child(n+2),
+    .uk-grid-divider > [class*='uk-width-9-']:nth-child(n+2) { border-left-style: @grid-divider-border-style; }
+
+    /* Tablet and bigger */
+    @media (min-width: @breakpoint-medium) {
+
+        .uk-grid-divider > [class*='uk-width-medium-']:not(.uk-width-medium-1-1):nth-child(n+2) { border-left-style: @grid-divider-border-style; }
+
+    }
+
+    /* Desktop and bigger */
+    @media (min-width: @breakpoint-large) {
+
+        .uk-grid-divider > [class*='uk-width-large-']:not(.uk-width-large-1-1):nth-child(n+2) { border-left-style: @grid-divider-border-style; }
+
+        /*
+         * Horizontal divider
+         * Does not work with `uk-push-*`, `uk-pull-*` and not if the columns float into the next row
+         */
+
+        .uk-grid-divider:not(:empty) {
+            margin-left: -@grid-gutter-horizontal !important;
+            margin-right: -@grid-gutter-horizontal !important;
+        }
+
+        .uk-grid-divider > * {
+            padding-left: @grid-gutter-horizontal !important;
+            padding-right: @grid-gutter-horizontal !important;
+        }
+
+    }
+
+    /* Only large screens*/
+    @media (min-width: @breakpoint-xlarge) {
+
+        /*
+         * Large gutter
+         */
+
+        .uk-grid-divider:not(.uk-grid-preserve):not(:empty) {
+            margin-left: -@grid-gutter-large-horizontal !important;
+            margin-right: -@grid-gutter-large-horizontal !important;
+        }
+
+        .uk-grid-divider:not(.uk-grid-preserve) > * {
+            padding-left: @grid-gutter-large-horizontal !important;
+            padding-right: @grid-gutter-large-horizontal !important;
+        }
+
+        .uk-grid-divider:not(.uk-grid-preserve):empty {
+            margin-top: @grid-gutter-large-vertical !important;
+            margin-bottom: @grid-gutter-large-vertical !important;
+        }
+
+    }
+
+    /*
+     * Vertical divider
+     */
+
+    .uk-grid-divider:empty { border-top-style: @grid-divider-border-style; }
+
+}

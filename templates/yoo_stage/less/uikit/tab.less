@@ -1,0 +1,79 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+//
+// Component: Tab
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@tab-border:                                    @global-border;
+@tab-border-width:                              @global-border-width;
+@tab-color:                                     @global-link-color;
+@tab-hover-color:                               @global-heading-color;
+@tab-hover-border:                              rgba(0,0,0,0);
+@tab-hover-background:                          @global-border;
+@tab-active-border:                             @global-border;
+@tab-active-background:                         #fff;
+@tab-active-color:                              @global-color;
+@tab-disabled-color:                            @global-muted-color;
+
+//
+// New
+//
+
+@tab-border-radius:                             @global-border-radius;
+
+
+// Component
+// ========================================================================
+
+//
+// Items
+//
+
+.hook-tab() { border-radius: @tab-border-radius @tab-border-radius 0 0; }
+
+// Hover
+.hook-tab-hover() {}
+
+// Active
+.hook-tab-active() {}
+
+// Disabled
+.hook-tab-disabled() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-tab-misc() {
+
+    /* Modifier: `uk-tab-bottom'
+     ========================================================================== */
+
+    .uk-tab-bottom > li > a { border-radius: 0 0 @tab-border-radius @tab-border-radius; }
+
+    /* Modifier: 'tab-left', 'tab-right'
+     ========================================================================== */
+
+    /* Only tablets and desktops */
+    @media (min-width: @breakpoint-medium) {
+
+        /*
+         * Modifier: 'tab-left'
+         */
+
+        .uk-tab-left > li > a { border-radius: @tab-border-radius 0 0 @tab-border-radius; }
+
+        /*
+         * Modifier: 'tab-right'
+         */
+
+        .uk-tab-right > li > a { border-radius: 0 @tab-border-radius @tab-border-radius 0; }
+
+    }
+
+}

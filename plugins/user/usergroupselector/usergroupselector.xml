@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="user" method="upgrade">
+	<name>plg_user_usergroupselector</name>
+	<author>Function90.com</author>
+	<creationDate>September 2013</creationDate>
+	<copyright>Copyright (C) 20012 Function90.com. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>dev.function90@gmail.com</authorEmail>
+	<authorUrl>www.function90.com</authorUrl>
+	<version>2.0.0</version>
+	<description>User Group Selection from Front-end.</description>
+	<files>
+		<filename plugin="usergroupselector">usergroupselector.php</filename>
+		<filename>index.html</filename>
+	</files>
+	
+	<languages>
+		<language tag="en-GB">en-GB.plg_user_usergroupselector.ini</language>
+		<language tag="en-GB">en-GB.plg_user_usergroupselector.sys.ini</language>
+	</languages>
+	
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field
+					name="allowed_groups"
+					type="usergroup"
+					multiple="true"
+					required="true"
+					default=""
+					label="PLG_USER_USERGROUPSELECTOR_ALLOWED_USERGROUPS"
+					description="PLG_USER_USERGROUPSELECTOR_ALLOWED_USERGROUPS_DESC"
+				/>
+				
+				<field
+					name="label"
+					type="text"
+					default="User Group"
+					label="PLG_USER_USERGROUPSELECTOR_LABEL"
+					description="PLG_USER_USERGROUPSELECTOR_LABEL_DESC"
+				/>
+				
+				<field
+					name="desc"
+					type="textarea"
+					default="Select user group..."
+					label="PLG_USER_USERGROUPSELECTOR_DESC"
+					description="PLG_USER_USERGROUPSELECTOR_DESC_DESC"
+				/>
+				
+				<field
+					name="required"
+					type="radio"
+					default="0"
+					class="btn-group"
+					label="PLG_USER_USERGROUPSELECTOR_REQUIRED"
+					description="PLG_USER_USERGROUPSELECTOR_REQUIRED_DESC">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				
+				<field
+					name="default_group"
+					type="usergroup"
+					default=""
+					required="true"
+					label="PLG_USER_USERGROUPSELECTOR_DEFAULT_USERGROUP"
+					description="PLG_USER_USERGROUPSELECTOR_DEFAULT_USERGROUP_DESC">
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

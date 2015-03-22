@@ -1,0 +1,174 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+@bs-input-height:           22px;
+@baseBorderRadius:          3px;
+@tab-hover-background:      #dfdedd;
+
+// NAV LIST
+// --------
+
+.nav-list > li > a { color: @textColor; }
+.nav-list > li > a:hover { color: @linkColor; }
+
+/* Button overrides
+ ========================================================================== */
+
+.input-append .btn:nth-child(n+2),
+.btn-group:not(.btn-group-vertical) .btn:nth-child(n+2) {
+    margin-left: -@button-border-width;
+    border-left-color: transparent;
+}
+
+.input-append .btn:nth-child(n+2):hover,
+.input-append .btn:nth-child(n+2):focus,
+.btn-group .btn.dropdown-toggle:nth-child(n+2):hover,
+.btn-group .btn.dropdown-toggle:nth-child(n+2):focus { border-left-color: @button-hover-border; }
+
+.input-append .btn:nth-child(n+2):active,
+.btn-group.open .btn.dropdown-toggle:nth-child(n+2),
+.btn-group .btn.dropdown-toggle:nth-child(n+2):active { border-left-color: @button-active-border; }
+
+.input-prepend .btn:first-child,
+.input-prepend > .btn-group:first-child .btn {
+    margin-right: -@button-border-width!important;
+    border-right-color: transparent;
+}
+
+.input-prepend .btn:first-child:hover,
+.input-prepend .btn:first-child:focus,
+.input-prepend > .btn-group:first-child .btn:hover,
+.input-prepend > .btn-group:first-child .btn:focus { border-right-color: @button-hover-border; }
+
+.input-prepend .btn:first-child:active,
+.input-prepend > .btn-group:first-child .btn:active { border-right-color: @button-active-border; }
+
+.btn-group-vertical .btn:nth-child(n+2) {
+    margin-top: -@global-border-width;
+    border-top-color: transparent;
+}
+
+.btn-group-vertical .btn:nth-child(n+2):hover,
+.btn-group-vertical .btn:nth-child(n+2):focus { border-top-color: @button-hover-border; }
+.btn-group-vertical .btn:nth-child(n+2):active { border-top-color: @button-active-border; }
+
+
+/* Navs overrides
+ ========================================================================== */
+
+/*
+ * List
+ */
+
+.nav-list .divider { border-width: @global-border-width; }
+
+.well .nav-list {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/*
+ * Tabs Stacked
+ */
+
+.nav-tabs.nav-stacked > li > a,
+.nav-tabs.nav-stacked > li > a:hover,
+.nav-tabs.nav-stacked > li > a:focus { border-width: @global-border-width; }
+.nav-tabs.nav-stacked > li:nth-child(n+2) > a { border-top-color: transparent; }
+.nav-tabs.nav-stacked > li:nth-child(n+2) > a:hover { border-top-color: @global-border; }
+
+/*
+ * Tabs
+ */
+
+.nav-tabs { border-bottom-width: @global-border-width; }
+.nav-tabs > li { margin-bottom: -@global-border-width; }
+
+.nav-tabs > li > a,
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover,
+.nav-tabs > .active > a:focus { border-width: @global-border-width; }
+
+.nav-tabs > li > a:hover { border-bottom-color: transparent; }
+
+// Bottom
+.tabs-below > .nav-tabs { border-top-width: @global-border-width; }
+.tabs-below > .nav-tabs > li { margin-top: -@global-border-width; }
+.tabs-below > .nav-tabs > li > a:hover,
+.tabs-below > .nav-tabs > li > a:focus { border-top-color: transparent; }
+
+// Tabs on the left
+.tabs-left > .nav-tabs { border-right-width: @global-border-width; }
+.tabs-left > .nav-tabs > li > a { margin-right: -@global-border-width; }
+.tabs-left > .nav-tabs > li > a:hover { border-right-color: transparent; }
+
+// Tabs on the right
+.tabs-right > .nav-tabs { border-left-width: @global-border-width; }
+.tabs-right > .nav-tabs > li > a { margin-left: -@global-border-width; }
+.tabs-right > .nav-tabs > li > a:hover { border-left-color: transparent; }
+
+
+/* Accordion overrides
+ ========================================================================== */
+
+.accordion-group { border-width: @global-border-width!important; }
+.accordion-inner { border-top-width: @global-border-width!important; }
+
+
+/* Page header overrides
+ ========================================================================== */
+
+.page-header { border-bottom-width: @global-border-width; }
+
+
+/* Scaffolding overrides
+ ========================================================================== */
+
+.img-polaroid { border-width: @global-border-width; }
+
+
+/* Thumbnail overrides
+ ========================================================================== */
+
+.thumbnail { border-width: @global-border-width; }
+
+
+/* Form overrides
+ ========================================================================== */
+
+.control-group .input-prepend span,
+.control-group .input-append span { border-width: @global-border-width; }
+
+.control-group .input-prepend span:last-child,
+.control-group .input-append span:last-child {
+    margin-left: -@global-border-width;
+    border-left-color: transparent;
+}
+
+.control-group .input-prepend span:first-child,
+.control-group .input-append span:first-child {
+    margin-right: -@global-border-width;
+    border-right-color: transparent;
+}
+
+.control-group.warning .control-label,
+.control-group.warning .help-block,
+.control-group.warning .help-inline { color: @global-warning-background; }
+
+.control-group.error .control-label,
+.control-group.error .help-block,
+.control-group.error .help-inline { color: @global-danger-background; }
+
+.control-group.success .control-label,
+.control-group.success .help-block,
+.control-group.success .help-inline { color: @global-success-background; }
+
+
+/* Dropdown overrides
+ ========================================================================== */
+
+.dropdown-menu .divider { border-bottom-width: @global-border-width; }
+
+.dropdown-menu > li > a {
+    padding-left: 0;
+    padding-right: 0;
+}

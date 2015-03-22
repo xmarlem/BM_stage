@@ -1,0 +1,287 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+//
+// Component: Button
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@button-height:                                 @global-height;
+@button-mini-height:                            @global-height-mini;
+@button-small-height:                           @global-height-small;
+@button-large-height:                           @global-height-large;
+
+@button-line-height:                            @global-height;
+@button-mini-line-height:                       @global-height-mini;
+@button-small-line-height:                      @global-height-small;
+@button-large-line-height:                      @global-height-large;
+
+@button-mini-font-size:                         round((@global-font-size * 0.78)); // 11px
+@button-small-font-size:                        round((@global-font-size * 0.85)); // 12px
+@button-large-font-size:                        round((@global-font-size * 1.14)); // 16px
+
+@button-font-size:                              0.8rem;
+@button-background:                             rgba(0,0,0,0);
+@button-color:                                  @global-color;
+@button-hover-background:                       rgba(0,0,0,0);
+@button-hover-color:                            lighten(@global-primary-background, 7%);
+@button-active-background:                      rgba(0,0,0,0);
+@button-active-color:                           @global-primary-background;
+
+@button-primary-background:                     rgba(0,0,0,0);
+@button-primary-color:                          lighten(@global-primary-background, 10%);
+@button-primary-hover-background:               rgba(0,0,0,0);
+@button-primary-hover-color:                    @global-primary-background;
+@button-primary-active-background:              rgba(0,0,0,0);
+@button-primary-active-color:                   darken(@global-primary-background, 10%);
+
+@button-success-background:                     rgba(0,0,0,0);
+@button-success-color:                          lighten(@global-success-background, 15%);
+@button-success-hover-background:               rgba(0,0,0,0);
+@button-success-hover-color:                    @global-success-background;
+@button-success-active-background:              rgba(0,0,0,0);
+@button-success-active-color:                   darken(@global-success-background, 10%);
+
+@button-danger-background:                      rgba(0,0,0,0);
+@button-danger-color:                           lighten(@global-danger-background, 15%);
+@button-danger-hover-background:                rgba(0,0,0,0);
+@button-danger-hover-color:                     @global-danger-background;
+@button-danger-active-background:               rgba(0,0,0,0);
+@button-danger-active-color:                    darken(@global-danger-background, 10%);
+
+@button-disabled-color:                         @global-muted-color;
+@button-disabled-background:                    rgba(0,0,0,0);
+
+@button-link-color:                             @global-link-color;
+@button-link-hover-color:                       @global-link-hover-color;
+@button-link-hover-text-decoration:             @base-link-hover-text-decoration;
+@button-link-disabled-color:                    @global-muted-color;
+
+//
+// New
+//
+
+@button-font-family:                            'Judson';
+@button-text-transform:                         @global-text-transform;
+@button-letter-spacing:                         2px;
+
+@button-border-radius:                          @global-border-radius;
+@button-border-width:                           @global-border-width;
+
+@button-border:                                 @global-border;
+@button-hover-border:                           lighten(@global-primary-background, 15%);
+@button-active-border:                          @global-primary-background;
+
+@button-primary-border:                         lighten(@global-primary-background, 15%);
+@button-primary-hover-border:                   @global-primary-background;
+@button-primary-active-border:                  darken(@global-primary-background, 10%);
+
+@button-success-border:                         lighten(@global-success-background, 20%);
+@button-success-hover-border:                   @global-success-background;
+@button-success-active-border:                  darken(@global-success-background, 10%);
+
+@button-danger-border:                          lighten(@global-danger-background, 15%);
+@button-danger-hover-border:                    @global-danger-background;
+@button-danger-active-border:                   darken(@global-danger-background, 10%);
+
+@button-disabled-border:                        #e5e5e5;
+
+
+// Component
+// ========================================================================
+
+.hook-button() {
+    border: @button-border-width solid @button-border;
+    border-radius: @button-border-radius;
+    font-family: @button-font-family !important;
+    font-size: @button-font-size !important;
+    text-transform: @button-text-transform;
+    letter-spacing: @button-letter-spacing;
+    -webkit-transition: border-color 0.1s, background 0.1s, color 0.1s ease-in-out;
+    transition: border-color 0.1s, background 0.1s, color 0.1s ease-in-out;
+}
+
+.hook-button-hover() { border-color: @button-hover-border; }
+
+.hook-button-active() { border-color: @button-active-border; }
+
+
+// Color modifiers
+// ========================================================================
+
+//
+// Modifier: `uk-button-primary`
+//
+
+.hook-button-primary() { border-color: @button-primary-border; }
+
+.hook-button-primary-hover() { border-color: @button-primary-hover-border; }
+.hook-button-primary-active() { border-color: @button-primary-active-border; }
+
+//
+// Modifier: `uk-button-success`
+//
+
+.hook-button-success() { border-color: @button-success-border; }
+
+.hook-button-success-hover() { border-color: @button-success-hover-border; }
+.hook-button-success-active() { border-color: @button-success-active-border; }
+
+//
+// Modifier: `uk-button-danger`
+//
+
+.hook-button-danger() { border-color: @button-danger-border; }
+
+.hook-button-danger-hover() { border-color: @button-danger-hover-border; }
+.hook-button-danger-active() { border-color: @button-danger-active-border; }
+
+
+// Disabled state
+// ========================================================================
+
+.hook-button-disable() { border-color: @button-disabled-border; }
+
+
+// Modifier: `uk-button-link`
+// ========================================================================
+
+.hook-button-link() {}
+
+
+// Size modifiers
+// ========================================================================
+
+.hook-button-large() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-button-misc() {
+
+    /* Sub-object `uk-button-group`
+     =================================================================== */
+
+    /*
+     * Reset border-radius
+     */
+
+    .uk-button-group > .uk-button:not(:first-child):not(:last-child),
+    .uk-button-group > div:not(:first-child):not(:last-child) .uk-button { border-radius: 0; }
+
+    .uk-button-group > .uk-button:first-child,
+    .uk-button-group > div:first-child .uk-button {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    .uk-button-group > .uk-button:last-child,
+    .uk-button-group > div:last-child .uk-button {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    /*
+     * Collapse border
+     */
+
+    .uk-button-group > .uk-button:nth-child(n+2),
+    .uk-button-group > div:nth-child(n+2) .uk-button {
+
+        margin-left: -@button-border-width;
+        border-left: @button-border-width solid transparent;
+
+    }
+
+    .uk-button-group,
+    .uk-button-group > div {
+
+        /* Button default */
+        > .uk-button:not(:disabled) {
+
+            &:hover,
+            &:focus {
+
+                border-left-color: @button-hover-border;
+
+                &:not(.uk-active) + .uk-button.uk-active { border-left-color: @button-hover-border; }
+
+            }
+
+            &:active,
+            &.uk-active { border-left-color: @button-active-border; }
+
+        }
+
+        /* Button primary */
+        > .uk-button-primary:not(:disabled) {
+
+            &:hover,
+            &:focus {
+
+                border-left-color: @button-primary-hover-border;
+
+                &:not(.uk-active) + .uk-button.uk-active { border-left-color: @button-primary-hover-border; }
+
+            }
+
+            &:active,
+            &.uk-active { border-left-color: @button-primary-active-border; }
+
+        }
+
+        /* Button success */
+        > .uk-button-success:not(:disabled) {
+
+            &:hover,
+            &:focus {
+                border-left-color: @button-success-hover-border;
+
+                &:not(.uk-active) + .uk-button.uk-active { border-left-color: @button-success-hover-border; }
+
+            }
+
+            &:active,
+            &.uk-active { border-left-color: @button-success-active-border; }
+
+        }
+
+        /* Button danger */
+        > .uk-button-danger:not(:disabled) {
+
+            &:hover,
+            &:focus {
+
+                border-left-color: @button-danger-hover-border;
+
+                &:not(.uk-active) + .uk-button.uk-active { border-left-color: @button-danger-hover-border; }
+
+            }
+
+            &:active,
+            &.uk-active { border-left-color: @button-danger-active-border; }
+
+        }
+
+    }
+
+    /*
+     * Create position context to superimpose the successor elements border
+     * Known issue: If you use an `a` element as button and an icon inside,
+     * the active state will not work if you click the icon inside the button
+     * Workaround: Just use a `button` or `input` element as button
+    */
+
+    .uk-button-group .uk-button:hover { z-index: 2; }
+
+    /* Modifier: `uk-button-link`
+     =================================================================== */
+
+    /* Fix for mobile webkit */
+    button.uk-button-link { border-color: transparent; }
+
+}
