@@ -148,7 +148,7 @@ defined('_JEXEC') or die;
 	<?php if ($this->item->params->get('latestItemReadMore')): ?>
 	<!-- Item "read more..." link -->
 	<div class="latestItemReadMore">
-		<a class="k2ReadMore" href="<?php echo $this->item->link; ?>">
+		<a class="uk-button" href="<?php echo $this->item->link; ?>">
 			<?php echo JText::_('K2_READ_MORE'); ?>
 		</a>
 	</div>

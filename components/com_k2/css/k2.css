@@ -110,8 +110,12 @@ div.k2UsersBlock ul li {} /* Example CSS: display:block;clear:both;padding:2px 0
 .k2Avatar img {display:block;float:left;background:#fff;border:1px solid #ccc;padding:2px;margin:2px 4px 4px 0;}
 
 /* --- Read more --- */
-a.k2ReadMore {}
-a.k2ReadMore:hover {}
+a.k2ReadMore { 
+
+}
+a.k2ReadMore:hover 
+{
+}
 
 /* --- Pagination --- */
 div.k2Pagination {padding:8px;margin:24px 0 4px 0;text-align:center;color:#999;}

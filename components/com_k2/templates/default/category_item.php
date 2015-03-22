@@ -261,7 +261,7 @@ K2HelperUtilities::setDefaultImage($this->item, 'itemlist', $this->params);
 				<?php echo $this->item->numOfComments; ?> <?php echo ($this->item->numOfComments>1) ? JText::_('K2_COMMENTS') : JText::_('K2_COMMENT'); ?>
 			</a>
 			<?php else: ?>
-			<a href="<?php echo $this->item->link; ?>#itemCommentsAnchor">
+			<a href="<?php echo $this->item->link; ?>#itemCommentsAnchor" class="uk-button">
 				<?php echo JText::_('K2_BE_THE_FIRST_TO_COMMENT'); ?>
 			</a>
 			<?php endif; ?>
@@ -272,7 +272,7 @@ K2HelperUtilities::setDefaultImage($this->item, 'itemlist', $this->params);
 	<?php if ($this->item->params->get('catItemReadMore')): ?>
 	<!-- Item "read more..." link -->
 	<div class="catItemReadMore">
-		<a class="k2ReadMore" href="<?php echo $this->item->link; ?>">
+		<a class="uk-button" href="<?php echo $this->item->link; ?>">
 			<?php echo JText::_('K2_READ_MORE'); ?>
 		</a>
 	</div>

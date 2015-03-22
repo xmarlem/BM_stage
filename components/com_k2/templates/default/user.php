@@ -235,7 +235,7 @@ $user = JFactory::getUser();
 			<?php if ($this->params->get('userItemReadMore')): ?>
 			<!-- Item "read more..." link -->
 			<div class="userItemReadMore">
-				<a class="k2ReadMore" href="<?php echo $item->link; ?>">
+				<a class="uk-button" href="<?php echo $item->link; ?>">
 					<?php echo JText::_('K2_READ_MORE'); ?>
 				</a>
 			</div>
