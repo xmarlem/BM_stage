@@ -269,6 +269,12 @@ if ($components)
 }
 
 /*
+ * K2 --- byML
+ */
+
+
+
+/*
  * Extensions Submenu
  */
 $im = $user->authorise('core.manage', 'com_installer');
