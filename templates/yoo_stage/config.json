@@ -1,5 +1,4 @@
 {
-	"dynamic_style": "1",
 	"compression": "0",
 	"warp_branding": "0",
 	"panel_default": {
@@ -85,7 +84,7 @@
 			}
 		},
 		"frontpage": {
-			"style": "default",
+			"style": "BM_blue",
 			"body_frame": "1",
 			"system_output": "0",
 			"sidebars": {
@@ -209,7 +208,7 @@
 			}
 		},
 		"layouts": {
-			"style": "default",
+			"style": "orange",
 			"article_boxed": "1",
 			"sidebars": {
 				"sidebar-a": {
@@ -267,7 +266,8 @@
 			}
 		},
 		"articles": {
-			"style": "default",
+			"style": "terracotta",
+			"article_boxed": "1",
 			"sidebars": {
 				"sidebar-a": {
 					"width": "18",
@@ -320,9 +320,65 @@
 			},
 			"assignment": {
 				"0": "102",
-				"1": "132",
-				"2": "105",
-				"3": "106"
+				"1": "230",
+				"2": "242"
+			}
+		},
+		"libreria": {
+			"style": "BM_libreria",
+			"article_boxed": "1",
+			"sidebars": {
+				"sidebar-a": {
+					"width": "18",
+					"alignment": "right"
+				},
+				"sidebar-b": {
+					"width": "18",
+					"alignment": "right"
+				}
+			},
+			"grid": {
+				"top-a": {
+					"layout": "parallel",
+					"responsive": "medium"
+				},
+				"top-b": {
+					"layout": "parallel",
+					"responsive": "medium"
+				},
+				"bottom-a": {
+					"layout": "parallel",
+					"responsive": "medium"
+				},
+				"bottom-b": {
+					"layout": "parallel",
+					"responsive": "medium"
+				},
+				"main-top": {
+					"layout": "parallel",
+					"responsive": "medium"
+				},
+				"main-bottom": {
+					"layout": "parallel",
+					"responsive": "medium"
+				}
+			},
+			"block": {
+				"top-a": {
+					"block-bg": ""
+				},
+				"top-b": {
+					"block-bg": ""
+				},
+				"bottom-a": {
+					"block-bg": ""
+				},
+				"bottom-b": {
+					"block-bg": ""
+				}
+			},
+			"assignment": {
+				"0": "229"
 			}
 		}
 	},
