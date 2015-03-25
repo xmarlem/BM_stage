@@ -266,7 +266,7 @@
 			}
 		},
 		"articles": {
-			"style": "terracotta",
+			"style": "BM_articoli",
 			"article_boxed": "1",
 			"sidebars": {
 				"sidebar-a": {
@@ -320,8 +320,8 @@
 			},
 			"assignment": {
 				"0": "102",
-				"1": "230",
-				"2": "242"
+				"1": "242",
+				"2": "312"
 			}
 		},
 		"libreria": {
@@ -873,7 +873,91 @@
 				"small": "1"
 			}
 		},
+		"112": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"120": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"121": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"123": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
 		"132": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"133": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"134": {
 			"class": "",
 			"panel": "",
 			"icon": "",
@@ -1037,10 +1121,6 @@
 			"icon": "",
 			"subtitle": ""
 		},
-		"230": {
-			"icon": "",
-			"subtitle": ""
-		},
 		"240": {
 			"icon": "",
 			"subtitle": ""
@@ -1072,6 +1152,10 @@
 			"subtitle": ""
 		},
 		"270": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"312": {
 			"icon": "",
 			"subtitle": ""
 		}

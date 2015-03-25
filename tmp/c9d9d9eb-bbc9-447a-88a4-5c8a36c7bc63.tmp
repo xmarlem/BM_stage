@@ -1,0 +1,513 @@
+ {
+	"categories":  {
+		"meditazioni":  {
+			"parent": "0",
+			"published": "1",
+			"description": "Meditazioni di vita quotidiana alla luce della parola di Dio",
+			"ordering": "1",
+			"content":  {
+				"image": "\/media\/k2\/categories\/1.png"
+			},
+			"name": "Meditazioni"
+		},
+		"testimonianze":  {
+			"parent": "0",
+			"published": "1",
+			"description": "Di seguito potrete leggere alcune testimonianze di vita e di fede.\r\nStorie di vite cambiate dalla potente mano di Dio. Persone che brevemente raccontano come il Signore Ges\u00f9, attraverso il messaggio del Suo Vangelo, ha trasformato interiormente, praticamente ed anche socialmente le loro vite, riempendole di pace, gioia, amore e speranza.\r\n\r\nPossano essere per chiunque legge uno sprono ad invocare con fede Colui che non lascia \"n\u00e9 delusi, n\u00e9 confusi\", coloro che confidano in Cristo Ges\u00f9.",
+			"ordering": "2",
+			"name": "Testimonianze"
+		},
+		"organizzazione":  {
+			"parent": "0",
+			"published": "1",
+			"description": "",
+			"ordering": "3",
+			"name": "Organizzazione"
+		},
+		"news":  {
+			"parent": "0",
+			"published": "1",
+			"description": "",
+			"ordering": "4",
+			"name": "News"
+		},
+		"multimedia":  {
+			"parent": "0",
+			"published": "1",
+			"description": "",
+			"ordering": "5",
+			"name": "Multimedia"
+		}
+	},
+	"items":  {
+		"a-chi-si-rivolge-la-nostra-fede":  {
+			"created": "2015-03-14 18:17:50",
+			"modified": "0000-00-00 00:00:00",
+			"hits": "3",
+			"access": "1",
+			"publish_up": "2015-03-14 18:17:50",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "meditazioni"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "<p class=\"verdana14\">Nella Parola di Dio mi viene detto di credere, ma in cosa devo credere? Mi viene detto di guardare, ma che cosa devo guardare<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote2sym\" name=\"sdfootnote2anc\" class=\"sdfootnoteanc\">2<\/a>? Qual &egrave; l'oggetto della mia speranza, della mia fiducia e del mio credere? La risposta &egrave; semplice: l'oggetto della fede, per ogni peccatore, &egrave; Ges&ugrave; Cristo.<\/p>\r\n<p class=\"verdana14\">A questo riguardo tanti fanno un errore: pensano che [in risposta a questo appello] essi debbano credere a Dio Padre! Credere in Dio, per&ograve;, &egrave; conseguenza della fede in Ges&ugrave;. Noi giungiamo a credere nell'amore eterno del Padre soltanto in quanto esso &egrave; risultato della [nostra] fede nel prezioso sangue di Ges&ugrave;.<\/p>\r\n"
+						},
+						"1":  {
+							"value": "\r\n<p class=\"verdana14\">&nbsp;<\/p>\r\n<p class=\"verdana14\">Molti dicono: &ldquo;Io crederei in Cristo se solo sapessi di essere fra gli eletti\". Questo [per&ograve;] &egrave; venire al Padre e nessuno pu&ograve; venire al Padre se non attraverso Cristo<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote3sym\" name=\"sdfootnote3anc\" class=\"sdfootnoteanc\">3<\/a>. L'opera del Padre &egrave; quella di eleggere; non puoi venire direttamente a Lui; quindi non puoi sapere di essere fra gli eletti<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote4sym\" name=\"sdfootnote4anc\" class=\"sdfootnoteanc\">4<\/a> fintanto che tu non abbia creduto in Cristo, il Redentore. Solo dopo, attraverso la redenzione, ti puoi accostare al Padre e conoscere la tua elezione.<\/p>\r\n<p class=\"verdana14\">Altri ancora fanno l'errore di rivolgersi all'opera di Dio lo Spirito Santo. Guardano [cos&igrave;] dentro di s&eacute; per vedere se provano determinate sensazioni e, se le trovano, considerano la loro fede forte. Se, per&ograve;, queste sensazioni svaniscono in loro, allora considerano la loro fede debole. Questi guardano all'opera dello Spirito, che non &egrave;<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote5sym\" name=\"sdfootnote5anc\" class=\"sdfootnoteanc\">5<\/a> l'oggetto della fede di un peccatore.<\/p>\r\n<p class=\"verdana14\">Certo, al fine di completare la redenzione, dobbiamo confidare sia nel Padre che nello Spirito. Per quanto riguarda, per&ograve;, la particolare grazia della giustificazione e del perdono, &egrave; solo al sangue del Mediatore che possiamo fare appello. I cristiani devono confidare nello Spirito dopo la loro conversione, ma il peccatore, se vuole essere salvato, non lo sar&agrave; confidando nello Spirito, n&eacute; guardando allo Spirito, ma guardando a Cristo Ges&ugrave; ed a Lui solo. So bene che la salvezza dipende dall'intera Trinit&agrave;, eppure, il primo ed immediato oggetto della fede giustificante di un peccatore non &eacute; n&eacute; Dio Padre, n&eacute; Dio lo Spirito Santo, ma Dio il Figlio che, assumendo la carne d'un uomo, ha offerto S&eacute; stesso come sacrificio espiatorio per i peccatori.<\/p>\r\n<p class=\"verdana14\">[Ti chiedo, cos&igrave;:] hai tu \"l'occhio della fede\"? Allora, anima cara, contempla Cristo come Dio. Se vuoi essere salvato, credi in Lui come Dio su ogni cosa, benedetto per sempre. Accoglilo come \"Dio vero da Dio vero\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote6sym\" name=\"sdfootnote6anc\" class=\"sdfootnoteanc\">6<\/a>, perch&eacute; se non lo fai, non puoi avere in Lui parte alcuna.<\/p>\r\n<p class=\"verdana14\">Quando hai creduto questo, credi in Ges&ugrave; Cristo come uomo. Credi nella meravigliosa storia della Sua incarnazione. Fidati della testimonianza degli evangelisti che presentano l'Infinito che si fa bambino, l'Eterno che si nasconde nel mortale, che Colui che era il Re del cielo si fa servo dei servi e Figlio dell'uomo. Credi e ammira il mistero della Sua incarnazione, perch&eacute; se non credi in questo non potrai essere salvato.<\/p>\r\n<p class=\"verdana14\">E soprattutto, se vuoi essere salvato che la tua fede consideri Cristo nella Sua perfetta giustizia. Guardalo mentre osserva la Legge divina in modo irreprensibile, quando ubbidisce al Padre senza errare, come Egli mantenga la Sua integrit&agrave; senza mai cadere in difetto. Tutto questo lo devi considerare come fatto in tuo favore! Tu non avresti potuto osservare la Legge: Egli l'ha osservata per te; tu non avresti potuto ubbidire a Dio perfettamente: ed ecco che la Sua ubbidienza prende il posto della tua... Attraverso di questo tu sei salvato.<\/p>\r\n<p class=\"verdana14\">Fai cos&igrave; particolare attenzione a che la tua fede soprattutto contempli Cristo come morente e come morto. Guarda l'Agnello di Dio muto di fronte a chi lo tosa<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote7sym\" name=\"sdfootnote7anc\" class=\"sdfootnoteanc\">7<\/a>. Contempla questo uomo di dolore, familiare col patire; seguilo nel Getsemani e guarda come versi gocce di sangue e sudore<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote8sym\" name=\"sdfootnote8anc\" class=\"sdfootnoteanc\">8<\/a>.<\/p>\r\n<p class=\"verdana14\">Fa bene attenzione: la tua fede non abbia nulla a che fare con alcunch&eacute; sia dentro di te; l'oggetto della fede non &egrave; qualcosa che stia dentro di te, ma qualcosa che sta al di fuori di te.Credi in Colui che, inchiodato mani e piedi sul legno della croce, versa la Sua vita per i peccatori, per te. L&igrave; c'&egrave; \"l'oggetto\" della tua fede salvifica, non in te stesso, n&eacute; in qualcosa che lo Spirito Santo ti ha fatto sentire o ha promesso di fare per te: devi guardare a Cristo ed unicamente a Cristo Ges&ugrave;.<\/p>\r\n<p class=\"verdana14\">Poi lascia che la tua fede consideri Cristo che risorge dai morti. Guardalo, ha portato su di S&eacute; la maledizione ed ora Egli riceve giustificazione. Egli muore per pagare il debito e risorge per inchiodare sulla croce il \"certificato di avvenuto pagamento\".<\/p>\r\n<p class=\"verdana14\">Guardalo ascendere al cielo e intercedere, anche oggi, presso il trono del Padre. Egli l&agrave; sta supplicando in favore del Suo popolo ed offre la Sua autorevole petizione per tutti coloro che vengono a Dio per mezzo di Lui. Ges&ugrave; Cristo - come Dio, come uomo, come vivente, come morto, come risorto e come regnante lass&ugrave; - Lui e Lui soltanto, deve essere l'oggetto della tua fede per il perdono del peccato.<\/p>\r\n<p class=\"verdana14\">Non devi confidare in null'altro. Egli solo deve essere appoggio e sostegno della tua fiducia. Tutto ci&ograve; che vi aggiungi non potrebbe che essere un malvagio anticristo, una ribellione contro la sovranit&agrave; del Signore Ges&ugrave;. Accertati per&ograve; molto bene che la tua fede, per essere salvifica, mentre guardi a Cristo in tutti questi [Suoi] aspetti, lo consideri in quanto tuo Sostituto.<\/p>\r\n<p class=\"verdana14\">Questa dottrina di sostituzione &egrave; cos&igrave; essenziale all'intero piano della salvezza che debbo spiegarla qui per l'ennesima volta.<\/p>\r\n<p class=\"verdana14\">Dio &egrave; giusto e [proprio perch&eacute; &egrave; giusto] deve punire il peccato. Dio &egrave; misericordioso: Egli desidera perdonare tutti coloro che credono in Ges&ugrave;. Com'&egrave; possibile, allora, conciliare queste due cose? Come pu&ograve; Egli essere giusto ed esigere che la pena sia scontata; misericordioso, ed accogliere il peccatore?<\/p>\r\n<p class=\"verdana14\">Lo fa in questo modo: Egli prende i peccati del Suo popolo di fatto \"estraendoli\" dal Suo popolo, deponendoli poi su Cristo. Esso cos&igrave; viene a trovarsi in condizione di innocenza, come se non avesse mai peccato, mentre Cristo viene guardato da Dio come se Egli fosse stato avvolto in un unico fascio con tutti i peccatori del mondo. Il peccato del suo popolo viene piortato via dalle loro persone e realmente e di fatto, non in modo tipologico o metaforico, realmente e di fatto deposto su Cristo.<\/p>\r\n<p class=\"verdana14\">Dio, poi, &egrave; uscito con la Sua spada infuocata incontro al peccatore per punirlo. Ha incontrato Cristo. Cristo non era in S&eacute; stesso peccatore, ma gli erano imputati tutti i peccati del Suo popolo. La giustizia, cos&igrave;, ha incontrato Cristo come se Lui fosse stato il peccatore ed ha punito Cristo per i peccati del Suo popolo tanto quanto i suoi diritti potevano andare. Egli ha esatto da Lui fino all'ultimo atomo della pena, non lasciandone in quella coppa nemmeno la feccia<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote9sym\" name=\"sdfootnote9anc\" class=\"sdfootnoteanc\">9<\/a>.<\/p>\r\n<p class=\"verdana14\">Ed ora, chi pu&ograve; vedere Cristo come proprio Sostituto e ripone in Lui la sua fiducia, &egrave; pertanto liberato dalla maledizione della legge<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote10sym\" name=\"sdfootnote10anc\" class=\"sdfootnoteanc\">10<\/a>.<\/p>\r\n<p class=\"verdana14\">Anima cara, quando vedi Cristo che ubbidisce alla legge, la tua fede deve dire: \"Egli la sta ubbidendo per il Suo popolo\". Quando Lo vedi morire, devi contare quelle goccie di sangue e dire: \"Cos&igrave; Egli ha tolto i miei peccati\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote11sym\" name=\"sdfootnote11anc\" class=\"sdfootnoteanc\">11<\/a>. Quando Lo vedi risorgere dai morti, tu devi dire: \"Egli risorge come il Capo e rappresentante dei Suoi eletti\", e quando Lo vedi sedere alla destra di Dio, tu devi vederlo l&agrave; come la garanzia<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote12sym\" name=\"sdfootnote12anc\" class=\"sdfootnoteanc\">12<\/a> che tutti coloro per i quali Egli &egrave; morto, pi&ugrave; che sicuramente sederanno alla destra del Padre.<\/p>\r\n<p class=\"verdana14\">Impara a considerare Cristo come se, agli occhi di Dio, fosse Lui il peccatore, Lui in cui non vi era peccato<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote13sym\" name=\"sdfootnote13anc\" class=\"sdfootnoteanc\">13<\/a>. Egli era \"il Giusto\", ma ha sofferto per gli ingiusti<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote14sym\" name=\"sdfootnote14anc\" class=\"sdfootnoteanc\">14<\/a>, e tutto ci&ograve; che gli ingiusti avrebbero dovuto [giustamente] patire, Cristo lo ha patito una volta per tutte ed ha eliminato i loro peccati per sempre attraverso il sacrificio di S&eacute; stesso.<\/p>\r\n<p class=\"verdana14\">Ora, questo &egrave; il grande \"oggetto\" verso il quale deve rivolgerso la fede. Io ti prego, su di questo non fare errore alcuno, perch&eacute; un errore proprio a questo punto sarebbe pericoloso, per non dire fatale.<\/p>\r\n<p class=\"verdana14\">Attraverso la tua fede, considera Cristo - nella Sua vita, sofferenza, morte e risurrezione - come il Sostituto di tutti coloro che il Padre Gli ha affidato, il sacrificio vicario per i peccati di tutti coloro che confidano in Lui con la loro anima. Cristo, quindi, cos&igrave; come Dio lo ha prestabilito<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote15sym\" name=\"sdfootnote15anc\" class=\"sdfootnoteanc\">15<\/a>, &egrave; [l'unico] oggetto della fede giustificante.<\/p>\r\n<p class=\"verdana14\">Permettetemi di rilevare ulteriormente come alcuni che leggono queste parole potrebbero dire: \"Oh, io crederei e sarei salvato se solo...\". Se solo cosa? Se solo Cristo fosse morto? \"O no, signore, il mio dubbio non ha nulla a che fare con Cristo\". Lo pensavo. Allora, qual &egrave; il tuo dubbio? \"Beh, io crederei se solo io sentissi questo, se solo io avessi fatto quello...\". Ma io ti dico che se tu sentissi quello non potresti veramente [dire di] credere in Ges&ugrave;, perch&eacute; allora tu crederesti in te stesso, non in Cristo. Non potrei dirlo pi&ugrave; chiaramente<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote16sym\" name=\"sdfootnote16anc\" class=\"sdfootnoteanc\">16<\/a>. Se tu fossi cos&igrave; e cos&igrave; o cos&igrave; e cos&agrave;, allora potresti avere fiducia. Fiducia in che cosa? Ovvio, fiducia nei tuoi sentimenti, fiducia nelle tue azioni, e questo &egrave; esattamente l'opposto della fiducia in Cristo.<\/p>\r\n<p class=\"verdana14\">Fede non significa dedurre, sulla base di qualcosa di buono che c'&egrave; dentro di me, che sar&ograve; salvato; significa ammettere, tra i denti e anche a dispetto dei fatti, che sono colpevole agli occhi di Dio e che merito la Sua condanna. Ciononostante, io credo che il sangue di Ges&ugrave; Cristo Suo Figlio, mi purifica da ogni peccato; e nonostante che la mia attuale consapevolezza mi condanni, la mia fede prevale sulla mia consapevolezza ed io credo che Egli salva \"perfettamente quelli che per mezzo di lui si avvicinano a Dio\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote17sym\" name=\"sdfootnote17anc\" class=\"sdfootnoteanc\">17<\/a>.<\/p>\r\n<p class=\"verdana14\">Venire a Cristo come dei santi &egrave; molto facile. E' molto facile confidare nelle cure di un medico quando si sa di essere in via di miglioramento. Confidare per&ograve; nel tuo medico quando senti gi&agrave; la morte che incombe su di te, non rassegnarsi quando la malattia gi&agrave; si palesa in ogni angolo del tuo corpo, quando l'ulcera sta accumulando il suo veleno, credere anche allora nell'efficacia della medicina, questa s&igrave; che &egrave; fede!<\/p>\r\n<p class=\"verdana14\">Analogamente, quando il peccato sembra ormai essere diventato il tuo padrone, quando tu senti che la legge ti condanna [e che non c'&egrave; appello], allora, persino allora, come peccatore, confidare in Cristo, questa &egrave; l'impresa pi&ugrave; ardita che vi sia al mondo. La fede che ha scosso le mura di Gerico, la fede che ha fatto risorgere i morti, la fede che ha chiuso le fauci dei leoni, non era fede pi&ugrave; grande di quella di un povero peccatore quando, in barba a tutti i suoi peccati, osa confidare nel sangue e nella giustizia di Ges&ugrave; Cristo. Fa' questo, anima cara, ed allora sarai salvato, chiunque tu sia.<\/p>\r\n<p class=\"verdana14\">L'oggetto della fede, quindi, &egrave; Cristo come il Sostituto dei peccatori, Dio in Cristo, ma non Dio indipendentemente da Cristo, n&eacute; una qualsiasi opera dello Spirito: soltanto l'opera di Ges&ugrave; deve essere da te considerata come fondamento della tua speranza.<\/p>\r\n<h3 class=\"verdana14\">La ragione della fede, o, perch&eacute; una persona giunge a credere, e da dove viene questa fede?<\/h3>\r\n<p class=\"verdana14\">Certo, \"la fede viene da ci&ograve; che si ascolta\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote18sym\" name=\"sdfootnote18anc\" class=\"sdfootnoteanc\">18<\/a>, come mai, per&ograve;, bench&eacute; tutti ascoltino, non tutti giungono alla fede? In che modo una persona giunge alla fede? Dal punto di vista umano, la fede nasce come risultato di un senso di bisogno. Una persona avverte la necessit&agrave; di un salvatore e scopre che proprio Cristo &egrave; il salvatore di cui ha bisogno. Ecco cos&igrave; che, non potendo farcela da sola, essa crede in Ges&ugrave;.<\/p>\r\n<p class=\"verdana14\">Non avendo nulla in s&eacute; stesso [di cui si possa avvalere per essere salvato] l'uomo sente che se non accoglier&agrave; Cristo sar&agrave; perduto e quindi lo fa perch&eacute; non pu&ograve; farne a meno. Si sente messo alle strette, in un angolo, e non c'&egrave; altra via di fuga se non questa, vale a dire attraverso la giustizia di un altro, perch&eacute; sente di non potere sfuggire attraverso una qualsiasi sua opera buona, o sofferenza meritoria propria. Viene cos&igrave; a Cristo e si umilia, perch&eacute; non pu&ograve; fare nulla senza Cristo, e che perir&agrave; se non lo abbraccia.<\/p>\r\n<p class=\"verdana14\">Facciamo per&ograve; un passo indietro. Da dove nasce questo senso di necessit&agrave; nell'uomo? Come mai alcuni avvertono il bisogno di conoscere Cristo, mentre tanti altri sembrano non avvertirlo? E' certo che anche gli altri ne abbiano altrettanto bisogno quanto ce n'abbia lui. In che modo, quindi, uno giunge a capire di essere perduto e [completamente] rovinato? Come mai solo alcuni si sentono peccatori, perduti e sospinti da questo senso di rovina, verso Cristo, Colui che li pu&ograve; ristabilire?<\/p>\r\n<p class=\"verdana14\">La risposta a queste domande &egrave; che questo &egrave; dono di Dio, questa &egrave; l'opera dello Spirito. Nessuno pu&ograve; venire a Cristo se non che lo Spirito lo attiri<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote19sym\" name=\"sdfootnote19anc\" class=\"sdfootnoteanc\">19<\/a>, e lo Spirito attira a Cristo, facendo s&igrave; che essi si sentano inesorabilmente condannati dalla legge <a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote20sym\" name=\"sdfootnote20anc\" class=\"sdfootnoteanc\">20<\/a>e [del tutto] convinti che se non vengono a Cristo [sicuramente] periranno<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote21sym\" name=\"sdfootnote21anc\" class=\"sdfootnoteanc\">21<\/a>. A questo punto, il peccatore si sente come una nave in balia della tempesta e non ci pensa due volte a correre al sicuro in questo porto celeste.<\/p>\r\n<p class=\"verdana14\">La salvezza in Cristo &egrave; cos&igrave; sgradevole per la mente carnale, cos&igrave; incoerente con l'amore che abbiamo per i meriti umani, che non ci rivolgeremmo mai a Cristo come nostro \"tutto in tutti\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote22sym\" name=\"sdfootnote22anc\" class=\"sdfootnoteanc\">22<\/a> se lo Spirito non ci convincesse che noi non eravamo nulla, e non ci costringesse ad abbracciare Cristo.<\/p>\r\n<p class=\"verdana14\">Ma facciamo ancora un passo pi&ugrave; indietro: com'&egrave; che lo Spirito di Dio insegna ad alcuni questo bisogno, e non agli altri? Come mai alcuni fra voi sono stati sospinti a Cristo dal bisogno che avevate di Cristo, mentre altri continuano nella loro presunzione di giustizia e periscono? Non c&rsquo;&egrave; altra risposta da dare e non questa: &ldquo;Perch&eacute; cos&igrave;, o Padre, ti &egrave; piaciuto&rdquo;. Alla fin fine tutto &egrave; da ricollegarsi alla sovranit&agrave; di Dio. Il Signore ha &ldquo;nascosto queste cose ai savi ed agli intelligenti e le ha rivelate ai piccoli&rdquo;<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote23sym\" name=\"sdfootnote23anc\" class=\"sdfootnoteanc\">23<\/a>. Nel modo come Cristo mette le cose: &ldquo;Le mie pecore ascoltano la mia voce e io le conosco ed esse mi seguono&rdquo;<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote24sym\" name=\"sdfootnote24anc\" class=\"sdfootnoteanc\">24<\/a>, &ldquo;voi non credete, perch&eacute; non siete delle mie pecore&rdquo;<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote25sym\" name=\"sdfootnote25anc\" class=\"sdfootnoteanc\">25<\/a>. Alcuni teologi vorrebbero leggere questo come: &ldquo;Voi non siete delle mie pecore perch&eacute; non credete&rdquo;, come se fosse il credere a renderci pecore di Cristo. Il testo, per&ograve;, dice: &ldquo;Voi non credete perch&eacute; non siete delle mie pecore&rdquo;. &ldquo;Tutti quelli che il Padre mi d&agrave; verranno a me&rdquo;.<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote26sym\" name=\"sdfootnote26anc\" class=\"sdfootnoteanc\">26<\/a> Se essi non vengono, questa &egrave; chiara prova che essi non [Gli] erano stati dati, perch&eacute; coloro che sono stati dati dall&rsquo;eternit&agrave; a Cristo, scelti da Dio Padre, e poi redenti da Dio il Figlio, questi sono condotti dallo Spirito, attraverso un senso di bisogno, a venire e ad abbracciare Cristo.<\/p>\r\n<p class=\"verdana14\">Nessuno ha mai creduto o creder&agrave; mai in Cristo se di Lui non ne sente il bisogno. Nessuno mai ha sentito o sentir&agrave; il bisogno di Cristo, se non quando lo Spirito glielo far&agrave; sentire, e lo Spirito non far&agrave; mai sentire il suo bisogno di Cristo a salvezza, a meno che non sia scritto in quel libro eterno in cui Dio ha con certezza inciso il nome dei Suoi eletti.<\/p>\r\n<p class=\"verdana14\">Non sar&ograve; cos&igrave; in alcun modo equivocato su questo punto, che la ragione della fede, o il perch&eacute; gli uomini credono, &egrave; l&rsquo;amore del Dio che elegge, il quale opera attraverso lo Spirito un senso di bisogno e cos&igrave; li porta a Cristo Ges&ugrave;.<\/p>\r\n<h3 class=\"verdana14\">La base della fede del peccatore, o su quale base egli osa credere nel Signore Ges&ugrave; Cristo<\/h3>\r\n<p class=\"verdana14\">Miei cari amici, gi&agrave; ho detto che nessuno creder&agrave; in Ges&ugrave; se non sente [prima] il bisogno di Lui. Ho detto spesso e lo ripeto di nuovo, che io non vengo a Cristo implorandolo a che io senta il mio bisogno di Lui; la mia ragione per credere a Cristo non &egrave; perch&eacute; io senta il bisogno che ho di Lui.<\/p>\r\n<p class=\"verdana14\">La base per la quale un uomo viene a Cristo,non &egrave; la sensibilit&agrave; che ha di essere peccatore, ma in quanto peccatore e nient&rsquo;altro che come peccatore. Egli non verr&agrave; fintanto che non verr&agrave; risvegliato; ma quando viene, egli non dice: &ldquo;Signore, io vengo a te perch&eacute; sono un peccatore risvegliato. Ti prego salvami&rdquo;. Ma egli dice: &ldquo;Signore, sono un peccatore. Ti prego, salvami&rdquo;. Non il suo risveglio, ma il fatto di essere un peccatore &egrave; il metodo e piano sulla base del quale egli osa venire.<\/p>\r\n<p class=\"verdana14\">Forse intuite che cosa io voglia dire, perch&eacute; non posso ora spiegarmi con maggiore precisione. Se mi riferissi alla predicazione di molti grandi teologi, essi direbbero ad un peccatore: &ldquo;Ora, se tu senti il tuo bisogno di Cristo, se tu ti sei ravveduto cos&igrave; tanto, se sei stato afferrato dalla legge in tale e tale grado, allora tu puoi venire a Cristo sulla base che sei un peccatore risvegliato&rdquo;. Questo &egrave; falso. Nessuno pu&ograve; venire a Cristo sulla base del suo essere un peccatore risvegliato. Deve venire a lui [solo] in quanto peccatore.<\/p>\r\n<p class=\"verdana14\">Quando vengo a Ges&ugrave;, non posso venirci a meno che io non sia stato risvegliato, eppure non vengo in quanto peccatore risvegliato. Io non sto ai piedi della croce per essere lavato in quanto mi sono ravveduto. Quando vi giungo io non vi porto altro che il peccato. Un senso di bisogno &egrave; un buon sentimento, ma quando sto ai piedi della croce, io non credo a Cristo perch&eacute; ho dei buoni sentimenti, ma credo in lui sia che abbia dei buoni sentimenti o non li abbia.<\/p>\r\n<p class=\"verdana14\"><em>Cos&igrave; qual sono &hellip; senza null&rsquo;altro &hellip; ma per il sangue che per me versato, e che tu mi chiami a venire a te, o Agnello di Dio io vengo a Te.<\/em><\/p>\r\n<p class=\"verdana14\">La porta della misericordia &egrave; aperta e su di essa &egrave; scritto: &ldquo;Certa &egrave; quest'affermazione e degna di essere pienamente accettata: che Cristo Ges&ugrave; &egrave; venuto nel mondo per salvare i peccatori&rdquo;<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote27sym\" name=\"sdfootnote27anc\" class=\"sdfootnoteanc\">27<\/a>.<\/p>\r\n<p class=\"verdana14\">Fra la parola &ldquo;salvare&rdquo; e la parola che segue, &ldquo;peccatori&rdquo; non c&rsquo;&egrave; alcun aggettivo. Non dice: &ldquo;peccatori ravveduti&rdquo;, &ldquo;peccatori risvegliati&rdquo;, o &ldquo;peccatori allarmati&rdquo;. No, dice solo &ldquo;peccatori&rdquo;, ed io so questo, che quando vengo, io vengo a Cristo oggi, perch&eacute; io sento che &egrave; altrettanto necessario venire alla croce di Cristo oggi cos&igrave; come lo era [per me] dieci anni fa; quando vengo a Lui io non oso venire come un peccatore consapevole, o come un peccatore risvegliato, ma devo ancora venire come un peccatore che non ha nulla in mano.<\/p>\r\n<p class=\"verdana14\">Recentemente ho incontrato un uomo anziano nella sacrestia di una cappella dello Yorkshire. L&rsquo;uomo era [ormai] stato cristiano per diversi anni, e disse: &ldquo;Non ho mai visto nessuno dirlo in modo pi&ugrave; esatto di questo, ma ancora io so che [ci&ograve; che dice questo inno] &egrave; esattamente il modo in cui io vengo. Io dico, Signore:<\/p>\r\n<p class=\"verdana14\"><em>Nulla nelle mie mani io porto &hellip; semplicemente mi aggrappo alla tua croce. Nudo io guardo a te per avere una veste; privo di aiuto io vengo a te per ottenere grazia. Nero alla fonte io mi affretto a venire &hellip; lavami, o Salvatore, altrimenti muoio.<\/em><\/p>\r\n<p class=\"verdana14\">Fede &egrave; uscire del tutto da s&eacute; stessi ed entrare in Cristo. Io so che molte centinaia di povere anime sono state molto afflitte perch&eacute; un ministro ha loro detto: &ldquo;Se tu ne senti il bisogno, puoi venire a Cristo&rdquo;. &ldquo;Ma,&ldquo; essi dicono, &ldquo;Io non sento abbastanza il mio bisogno,. Sono sicuro di no&rdquo;. Ho ricevuto dozzine di lettere da povere coscienze afflitte che dicevano: &ldquo;Io mi avventurerei a credere in Cristo per trovarvi salvezza se solo avessi una coscienza intenerita; se avessi un cuore morbido e malleabile; ma il mio cuore &egrave; come una roccia, come ghiaccio che non vuole sciogliersi. Io non sento dentro di me come vorrei sentire, e quindi non devo credere in Ges&ugrave;&rdquo;. Oh, basta, basta con queste cose! Non sono altro che un malvagio anticristo; questo &egrave; chiaramente papismo! Devi credere in Cristo per rinnovare il tuo cuore indurito, e venire a Lui con nient&rsquo;altro che il tuo peccato.<\/p>\r\n<p class=\"verdana14\">La base sulla quale un peccatore viene a Cristo &egrave; perch&eacute; [la sua anima] &egrave; nera [come la pece]; perch&eacute; &egrave; morto, e non perch&eacute; egli sa di essere morto; perch&eacute; egli &egrave; perduto, e non perch&eacute; sa di essere perduto. Io so che non ci verr&agrave; finch&eacute; non sapr&agrave; di esserlo, ma quella non &egrave; la base per cui viene. E&rsquo; la ragione segreta del perch&eacute;, ma non &egrave; la base pubblica ed oggettiva che egli comprende.<\/p>\r\n<p class=\"verdana14\">Eccomi, anno dopo anno, temendo di venire a Cristo perch&eacute; pensavo di non &ldquo;sentire&rdquo; abbastanza, ed ero solito ascoltare quell&rsquo;inno di Cowper<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote28sym\" name=\"sdfootnote28anc\" class=\"sdfootnoteanc\">28<\/a> sull&rsquo;essere insensibile come l&rsquo;acciaio.<\/p>\r\n<p class=\"verdana14\"><em>Se solo sentissi quest&rsquo;unico dolore, per trovare che io non posso sentire...<\/em><\/p>\r\n<p class=\"verdana14\">Io, quando ho creduto in Cristo, non c&rsquo;era nulla che &ldquo;sentivo&rdquo;. Ora, quando per&ograve; guardo indietro, trovo che per tutto il tempo io &ldquo;sentivo&rdquo; di fatto acutamente ed intensamente e, soprattutto perch&eacute; pensavo di non &ldquo;sentire&rdquo;.<\/p>\r\n<p class=\"verdana14\">Generalmente, coloro che maggiormente si ravvedono, pensano di essere impenitenti, e quelli che &ldquo;sentono&rdquo; maggiormente il loro bisogno lo sentono quando credono di non sentirlo affatto perch&eacute; non possiamo essere giudici dei nostri sentimenti. Per questo l&rsquo;invito dell&rsquo;Evangelo non &egrave; posto sulla base di alcunch&eacute; noi si possa giudicare, e nient&rsquo;altro che come peccatori.<\/p>\r\n<p class=\"verdana14\">&ldquo;Beh,&rdquo; dice uno, &ldquo;Se Egli dice: \"Venite a me, voi tutti che siete affaticati e oppressi, e io vi dar&ograve; riposo\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote29sym\" name=\"sdfootnote29anc\" class=\"sdfootnoteanc\">29<\/a>, vuol dire proprio quello. L'altro testo, per&ograve;, dice: \"Chiunque vuole venga\"<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote30sym\" name=\"sdfootnote30anc\" class=\"sdfootnoteanc\">30<\/a>, e quello non dice: Affaticati ed oppressi&rdquo;.<\/p>\r\n<p class=\"verdana14\">Oltretutto, sebbene l&rsquo;invito sia rivolto a chi &egrave; affaticato ed oppresso, vedete come la promessa non &egrave; fatta a loro in quanto affaticati ed oppressi, ma &egrave; loro fatta come venenti a Cristo. Essi non sapevano di essere affaticati ed oppressi quand&rsquo;erano venuti: pensavano di non esserlo. Lo erano, ma parte della loro stanchezza era che non la sentivano, e parte del loro fardello era perch&eacute; non sentivano di avercelo abbastanza. Sono venuti a Cristo proprio cos&igrave; com&rsquo;erano ed Egli li ha salvati, non perch&eacute; vi fosse nella loro stanchezza merito alcuno, o alcuna efficacia nel loro essere aggravati, ma Egli li ha salvati in quanto peccatori, e soltanto come peccatori. Cos&igrave; sono stati lavati nel Suo sangue e sono stati ripuliti. Mio caro lettore, lascia che ti persuada di questa verit&agrave;. Se tu vuoi venire a Cristo, vienici nient&rsquo;altro come peccatore, Egli non ti caccer&agrave; via.<\/p>\r\n<p class=\"verdana14\">Il buon vecchio Tobias Crisp<a href=\"http:\/\/www.evangelici.net\/classici\/spurgeon35.html#sdfootnote31sym\" name=\"sdfootnote31anc\" class=\"sdfootnoteanc\">31<\/a> dice in uno dei suoi sermoni su questo stesso punto: &ldquo;Oso affermarlo: se tu vieni a Cristo, chiunque tu sia, se Egli non ti riceve, allora Egli non sta mantenendo la Sua parola, perch&eacute; Egli dice: &lsquo;Chiunque venga a me io non lo caccer&ograve; via&rsquo;. Tu vieni, non importa quale qualifica o preparazione di doveri tu porti o quali sentimenti tu senta. Devi venire esattamente come sei e se sei il pi&ugrave; grande peccatore che sia mai uscito dall&rsquo;inferno, allora sei adatto a venire a Cristo tanto quanto lo sia il pi&ugrave; morale od eccellente fra gli uomini. C&rsquo;&egrave; un bagno. Chi &egrave; degno di essere lavato? La sporcizia pi&ugrave; nera di un uono non &egrave; ragione per la quale egli non debba essere lavato, ma la ragione pi&ugrave; chiara essa stessa per la quale egli deve essere lavato. Quando le nostre autorit&agrave; cittadine portano sollievo ai poveri, nessuno dice: &lsquo;Io sono tanto povero che non sono degno di ricevere sollievo!&rsquo;. Ma &egrave; proprio la tua povert&agrave; ad essere la tua preparazione, il nero &egrave; qui il bianco. Strana contraddizione!\"<\/p>\r\n<p class=\"verdana14\">L&rsquo;unica cosa che puoi portare a Cristo &egrave; il tuo peccato e la tua malvagit&agrave;. Tutto ci&ograve; che ti chiede &egrave; che tu venga a mani vuote. Se in te vi fosse del bene, non potresti confidare in Cristo. Devi venire con nulla in mano. Abbraccia Cristo come tutto in tutto, e quella &egrave; l&rsquo;unica base sulla quale una povera anima pu&ograve; essere salvata, come peccatore e nient&rsquo;altro che come peccatore.<\/p>"
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/2fa67f482133f1c934235b73c2a03954.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "A chi si rivolge la nostra fede?"
+		},
+		"le-crisi-una-possibilita":  {
+			"created": "2015-03-14 18:18:18",
+			"modified": "2015-03-15 23:39:36",
+			"hits": "11",
+			"access": "1",
+			"publish_up": "2015-03-14 18:18:18",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "meditazioni"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "<p>I cinesi utilizzano gli stessi segni per la parola &bdquo;crisi&ldquo; e la parola &ldquo;chance&rdquo;. Ogni crisi dovrebbe dunque essere una chance? Non certo a prima vista! Esistono diversi tipi di crisi...<\/p>\r\n"
+						},
+						"1":  {
+							"value": "\r\n<h4>Crisi prevedibili<\/h4>\r\n<p>In alcuni casi non c&rsquo;&egrave; bisogno di essere profeti per dire: &ldquo;Se tu continui in questo modo, prima o poi sbatterai la testa contro il muro!&rdquo; Quante crisi coniugali sarebbero state prevedibili? Altre invece sembravano imprevedibili, ma lo erano veramente? Alcune dolorose relazioni andate in frantumi, si sono sviluppate col passare del tempo. Sono il risultato di ripetute abitudini egoistiche, di parole che feriscono, del rifiuto di perdonare, del rifiuto di comunicare, di negligenze reciproche! La Bibbia dice: &ldquo;Che anche l&rsquo;ingiustizia raccoglier&agrave; l&rsquo;infelicit&agrave;.&rdquo; E il raccolto sar&agrave; terribile.<\/p>\r\n<h4>Crisi imprevedibili<\/h4>\r\n<p>Un incidente mortale, la nascita di un bambino con handicap, una malattia incurabile diagnosticata durante una visita medica di routine, un licenziamento, nonostante diplomi ed esperienze professionali. Avvenimenti questi che scuotono profondamente. In un istante la vita diventa insicura e non sar&agrave; mai pi&ugrave; la stessa.<\/p>\r\n<h4>Crisi profonde e durature<\/h4>\r\n<p>I drammi e le disperazioni che colpiscono i nostri cari, la malattia mortale che si espande irrimediabilmente nel loro corpo e tante altre tristi circostanze. Davanti alle apparenze di benessere, nessun successo, nessuna ricchezza materiale potr&agrave; mai soffocare il fallimento interiore. Cosa dire dei peccati che si sono accumulati? Che dolore sapere che abbiamo fatto soffrire gli altri! Risentiamo di questo malessere anche quando sappiamo che abbiamo troncato con Dio&hellip; Io non vivo realmente, ma vegeto. Non so per quale motivo sono qui. Non so dove vado e per di pi&ugrave; la mia vita &egrave; tanto fragile. Questo genere di crisi &egrave; meno scioccante, ma pu&ograve; lo stesso penetrare nella nostra vita e toglierci la tranquillit&agrave;.<\/p>\r\n<h4>La crisi, una chance?<\/h4>\r\n<p>In un primo momento nessuno ha questo sentimento. Una donna divorziata descriveva la sua storia con queste parole: &ldquo;Mi sentivo come un veliero nella morsa della tempesta, l&rsquo;albero maestro rotto, le vele lacerate!&rdquo; Altri hanno avuto l&rsquo;impressione di essere in un tunnel, del quale non conoscevano n&eacute; la lunghezza e neppure dove si trovava l&rsquo;uscita d&rsquo;emergenza; quel sentimento di non poter contare su nessuno, di non riuscire pi&ugrave; ad affrontare la vita. Le reazioni possono essere molto diverse. Alcuni gridano &ldquo;Perch&eacute; proprio io?&rdquo; Altri si ribellano con violenza. La sofferenza nascosta pu&ograve; anche trasformarsi in amarezza. Lo scoraggiamento profondo pu&ograve; condurre a chiudersi in s&eacute; stessi e a credersi senza valore. Altri fuggono dalla realt&agrave; e si danno all&rsquo;alcol, alla droga e fin&rsquo;anche al suicidio! L&rsquo;enciclopedia scrive che la parola &ldquo;crisi&rdquo; proviene dal greco &rdquo;decisione&rdquo;. Quindi le crisi possono spingerci a prendere decisioni che possono cambiare il corso della nostra esistenza. Decisioni buone o cattive.<\/p>\r\n<h4>Rimettere in questione<\/h4>\r\n<p>&Egrave; proprio attraverso le crisi che siamo confrontati con le questioni essenziali della vita, questioni che abbiamo trascurato e alle quali non abbiamo una risposta. Le crisi scuotono la nostra routine e scoprono il nostro comportamento abituale, fonte di difficolt&agrave; per gli altri. Un albero esposto alle tempeste o alla siccit&agrave; sviluppa le sue radici. Anche le nostre crisi sono opportunit&agrave; per cercare delle nuove risorse, delle fondamenta pi&ugrave; solide.<\/p>\r\n<h3>E Dio?<\/h3>\r\n<p>Le nostre crisi sono un&rsquo;opportunit&agrave; per interrogarci sulla nostra relazione con Dio. Siamo stati creati per essere in relazione, in comunicazione con Lui. Per conoscerlo, per scoprire in Lui la nostra ragione di vita; per scoprire la Sua perfezione, le Sue ricchezze e il Suo meraviglioso aiuto. Com&rsquo;&egrave; la vostra relazione con Dio? &Egrave; radicata o semplicemente un&rsquo;apparenza? Non pensate che forse queste crisi e questa disperazione siano una chiara conseguenza dell&rsquo;assenza di una relazione con Dio? Una conseguenza dovuta al fatto che voi avete ignorato le Sue direttive. Nonostante che in un primo momento sembrano negative, tutte le crisi possono essere decisive al giovamento della nostra relazione con Dio. Qualunque sia la crisi che voi state attraversando oggi, sappiate che per voi c&rsquo;&egrave; speranza, un avvenire! Il nostro Dio &egrave; il sovrano di ogni speranza. Egli ha la risposta alle vostre questioni e vi invita a confidare in Lui.<\/p>"
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/e0a70f72bdae9885bfc32d7cd19a26a1.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Le crisi - una possibilit\u00e0?"
+		},
+		"sono-stato-venduto":  {
+			"created": "2015-03-14 18:18:55",
+			"modified": "2015-03-15 18:20:46",
+			"hits": "23",
+			"access": "1",
+			"publish_up": "2015-03-14 18:18:55",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "testimonianze"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "<p>Sono nato a Losanna nel mese di luglio. I miei genitori, in procinto di divorziare, non sapevano cosa farsene di un bambino. Oggi mia madre avrebbe sicuramente abortito, ma all'epoca i bambini venivano abbandonati alla nascita. I miei primi sei mesi li trascorsi in un asilo-nido aspettando un \"acquirente.\"<\/p>\r\n<p>Quando avevo sei mesi, una giovane coppia manifest&ograve; il desiderio di adottarmi e di colpo, mi ritrovai a vivere con loro, senza essere legalmente il loro bambino. Mi hanno sempre trattato come se fossi il loro figlio. Ho avuto un'infanzia felice, ignorando sia la mia vera situazione familiare, sia i pericoli che ci&ograve; costituiva. In quel periodo i miei veri genitori erano divorziati. Mia madre faceva abuso di alcolici, e n&eacute; lei e neppure mio padre desideravano accollarsi la responsabilit&agrave; di un bambino. Mio padre faceva il venditore ambulante,&nbsp; fu durante uno dei suoi giri che incontr&ograve; questa giovane coppia desiderosa di adottare un bambino. In qualche modo, \"fui venduto porta-a-porta!&rdquo;<\/p>\r\n<p>Raggiunta l&rsquo;adolescenza venne il momento dell'adozione legale e fu allora che la mia mamma naturale si rifece viva, e rifiut&ograve; di dare il consenso all&rsquo;adozione. Ci&ograve; sarebbe stato per me un \"ritorno alle origini\" al quale mi opponevo categoricamente. Attraversai allora una profonda crisi d&rsquo;identit&agrave;. Realizzai improvvisamente che, malgrado avessi ricevuto molto affetto dai miei genitori adottivi, in fondo non ero il bambino di nessuno! L'uomo che mi amava non era veramente mio padre e colui che avrebbe dovuto esserlo, non lo era mai stato!<\/p>\r\n<p>Abbandonai gli studi e presto cominciai a crearmi un mondo immaginario nel quale evadere. Ma questo non portava a una soluzione duratura del mio problema. La realt&agrave; era l&agrave; ad aspettarmi, ogni volta che \"ritornavo con i piedi per terra\".<\/p>\r\n<p>Esercitando sulla mia madre naturale&nbsp; una pressione finanziaria, un notaio riusc&igrave; a convincerla dare il suo accordo per l&rsquo;adozione. I miei genitori adottivi avevano per legge il diritto di ricevere CHF 1.000 di pensione, per ogni anno che avevo trascorso con loro. E visto che avevo vissuto con loro per quindici anni, Per mia madre il calcolo fu facile da fare. La povera donna, alcolizzata, risposata nel frattempo con un uomo senza professione, fu obbligata a dare il consenso. Ero stato, una volta di pi&ugrave;, l'oggetto di un commercio, e ci&ograve; aggravava ancora di pi&ugrave; il mio problema. Pensai persino di suicidarmi e devo all'amore di Dio, se sono ancora vivo!<\/p>\r\n<p>In quel periodo mi ricordai che i miei genitori adottivi mi avevano dato quella che poi si rivel&ograve; essere una buona abitudine: leggere la Bibbia. Decisi allora di cercare la soluzione al mio problema nella Bibbia.<\/p>\r\n<p>Un giorno, durante le vacanze, mentre lavoravo alla biblioteca di Neuch&acirc;tel, decisi di leggere la mia Bibbia e pi&ugrave; volte fui confrontato con versi biblici come: \"Sei il mio figlio, oggi ti ho generato!\" Questi testi mi colpirono profondamente, infatti toccavano da vicino il mio problema. Compresi che Dio mi parlava. Sapevo che quei versi parlavano principalmente di Ges&ugrave;. Ma Dio li utilizzava per dirmi: \"Sei il mio bambino, oggi ti d&ograve; una vita nuova.&rdquo; La sera di quella giornata estiva, dissi a Dio che accettavo che fosse mio Padre e che volevo essere il suo bambino. Era un passo di fede. Non sapevo cosa sarebbe cambiato nella mia vita, ma sapevo che era la sola strada giusta. Tutta la mia vita cambi&ograve;! Il mattino le pareti della mia camera erano sempre le stesse, ma il mio cuore era stato cambiato dall&rsquo;amore di Dio. Egli aveva molte cose da cambiare nella mia vita, e continua ancora oggi a farlo. Ho sperimentato personalmente che \"se qualcuno &egrave; in Cristo, &egrave; una nuova creatura; le cose vecchie sono passate e ogni cosa &egrave; stata fatta nuova.&rdquo;<\/p>"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/94d43e327d9303539cb1e2aac7032668.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Sono stato venduto"
+		},
+		"chi-siamo":  {
+			"created": "2015-03-15 11:43:52",
+			"modified": "2015-03-15 16:41:38",
+			"hits": "30",
+			"access": "1",
+			"publish_up": "2015-03-15 11:43:52",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "organizzazione"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "<div class=\"uk-width-medium-2-3 uk-container-center uk-margin-large-top uk-margin-large-bottom\" style=\"text-align: center;\">\r\n<h1 class=\"uk-heading-large\">Chi siamo<\/h1>\r\n<hr class=\"uk-width-1-4 uk-container-center\" \/>\r\n<p class=\"uk-text-large uk-text-muted\"><strong>Biblical Ministry<\/strong> &egrave; un&rsquo;attivit&agrave; delle <strong><i><span style=\"text-decoration: underline;\">Chiese Cristiane Italiane del nord Europa<\/span><\/i><\/strong>, con una professione di fede evangelica vincolante.<\/p>\r\n<h3>Perch&eacute; questo servizio in internet?<\/h3>\r\n<p>La rete internet &egrave; da anni diventata &ldquo;il mezzo di comunicazione&rdquo; che raggiunge persone in tutto il mondo. Questa piattaforma di comunicazione offre la possibilit&agrave; di relazionare a distanza con simpatizzanti, cristiani praticanti, leader e Pastori delle chiese italianofone all&rsquo;estero. La presenza di Biblical Ministry in internet &egrave; importante, perch&eacute; offre la possibilit&agrave; di comunicare informazioni del mondo cristiano, e distribuire pubblicazioni in modo rapido ed effettivo, a bassi costi, rendendoli accessibili agli interessati.<\/p>\r\n<h3>Com&rsquo;&egrave; nata Biblical Ministry<\/h3>\r\nLa visione di Biblical Ministry &egrave; nata nella Missione Evangelica Italiana di Zurigo, sulla necessit&agrave; di facilitare il flusso di informazioni nel mondo cristiano italianofono all&rsquo;estero, e offrire ai cristiani corsi di formazione a ogni livello di maturit&agrave; spirituale.\r\n<h3>Biblical Ministry - una piattaforma di formazione<\/h3>\r\nIn collaborazione con autori scelti nel mondo cristiano evangelico, sviluppiamo studi biblici sulla formazione cristiana, leadership personale, base ministeriale e sociale, vita coniugale, ecc. Traguardo di questo programma di formazione &egrave; aiutare i cristiani a stabilire una forte relazione con Dio, equipaggiarli e aiutarli nella loro crescita spirituale, affinch&eacute; possano collaborare allo sviluppo della loro Chiesa e avere un&rsquo;influenza positiva nella societ&agrave;.\r\n<h3>Come si finanzia Biblical Ministry<\/h3>\r\n<p>Lo sviluppo di strumenti di formazione nella fede cristiana richiede molte preghiere, molto lavoro ma anche finanze. <strong>Biblical Ministry<\/strong> &egrave; un&rsquo;<strong><span style=\"text-decoration: underline;\"><i>organizzazione non profit (ONP)<\/i><\/span><\/strong>, si finanzia quindi attraverso donazioni e partecipazione annuale degli utenti . Potete sostenere questo progetto attraverso un&rsquo;offerta sul conto<\/p>\r\n<p class=\"uk-margin-large-top\" data-uk-margin=\"\"><a href=\"#\" class=\"uk-button uk-button-primary uk-button-large\"> Donazione <\/a><\/p>\r\n<\/div>"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/2ff2ba0051687eef5ca0459cf942940c.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Chi siamo"
+		},
+		"ebrei-italiani-comunita-distinta-e-integrata":  {
+			"created": "2015-03-15 18:00:45",
+			"modified": "0000-00-00 00:00:00",
+			"hits": "4",
+			"access": "1",
+			"publish_up": "2015-03-15 18:00:45",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "news"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "MILANO - Una ricerca approfondita, condotta con rigore storico e passione, sulla presenza ebraica in Italia: \u00e8 l'oggetto di un monumentale lavoro intrapreso dallo studioso veneziano Riccardo Calimani. Il suo interesse per l'ebraismo visto da tutte le angolature culturali, in tutte le epoche storiche e a ogni latitudine gli ha fruttato negli anni la produzione di una gamma di titoli varia e ampia (per citarne solo qualcuno, passa dalle vicende del ghetto di Venezia alle figure di Ges\u00f9 e Paolo, dalla storia dell'ebreo errante alla presenza ebraica in Europa, dall'eterna inquietudine dell'ebreo alle vicende del pregiudizio antiebraico) e in qualche modo trova la sua degna chiusa nei due volumi pubblicati da Mondadori.\r\n\r\nDel resto, la storia della presenza ebraica in Italia (e non solo) ha una specificit\u00e0 tale da non lasciare indifferente non solo chi \u00e8 interessato al tema, ma anche chi semplicemente voglia comprendere meglio quelle \"radici giudaico-cristiane\" che, nel nostro Paese, non sono solo un'accezione teologica, ma una premessa ineludibile per inquadrare gli sviluppi storici, le evoluzioni culturali e, non ultima, la realt\u00e0 odierna. La storia della presenza ebraica in Italia si intreccia infatti con la storia della Penisola da oltre venti secoli, ed \u00e8 addirittura dal III secolo prima di Cristo (o, visto il tema, ante era volgare) che Calimani prende le mosse, per risalire all'origine delle relazioni tra Roma e Gerusalemme.\r\n\r\nMa la storia dell'ebraismo \u00e8 anche storia di incroci, relazioni, intrecci sul piano storico (con l'impero romano prima e con il cristianesimo poi), teologico (in continua oscillazione tra l'onorevole ruolo di \"fratelli maggiori\" e l'accusa di deicidio), sociale ed economico (con l'eterno \"problema morale\" del prestito). Gli ebrei, conferma Calimani, sono sempre stati una realt\u00e0 distinta ma mai una realt\u00e0 a parte, capace di mantenere la propria identit\u00e0 culturale e le proprie tradizioni senza per\u00f2 isolarsi rispetto alla vita sociale del luogo.\r\n\r\nL'autore dedica ampi e minuziosi capitoli anche alle pi\u00f9 significative realt\u00e0 ebraiche locali, radicate a nord e soprattutto a sud, con le comunit\u00e0 presenti in Calabria, Sicilia, Campania, Puglia e Sardegna.\r\n\r\nUna storia, locale e globale, di resilienza e tolleranza, polemiche e leggende nere, conversioni forzate e occhiute censure, persecuzioni e integrazione che prosegue anche nell'era moderna (XVI-XVIII secolo), trattata nel secondo volume dell'opera: costruito su una documentazione altrettanto imponente (testimoniata, tra l'altro da quaranta pagine fitte di bibliografia \"essenziale\"), prende le mosse dall'espulsione degli ebrei dalla Spagna nel 1492, avvenimento che di riflesso condizion\u00f2 pesantemente anche le comunit\u00e0 italiane; nella prima parte del volume Calimani approfondisce il consolidamento della presenza ebraica nel XVI secolo, in particolare tra dominio pontificio, Granducato di Toscana, Stati estensi, Repubblica di Venezia, Regno di Sardegna e territori dei Gonzaga, per poi dedicarsi ai duecento anni successivi, in una sezione significativamente intitolata \"resistere per sopravvivere\", analizzando un periodo in cui alle tutele toscane faceva da contrappunto una \"aspra e difficile convivenza\" nei territori pontifici, l'acme e la parabola discendente del ghetto di Venezia si incrociavano con gli equilibri instabili vissuti nel profondo Nordest.\r\n\r\nCon il passare dei decenni rapporti e contesti si modificarono, condizionati dai nuovi venti che nel Settecento diffusero in tutta Europa - e in diversa misura anche nei territori italiani - la Rivoluzione francese, un avvenimento dalle conseguenze imprevedibili, capace di stravolgere gli equilibri e portare un'emancipazione rivelatasi ben presto per le comunit\u00e0 ebraiche un'arma a doppio taglio. Era quello \u00abl'inizio di una nuova inquieta stagione per l'intera Penisola e, in particolare, per gli ebrei italiani\u00bb, scrive Calimani, lo spartiacque tra i primi venti secoli di presenza ebraica in Italia e una modernit\u00e0 tutta da costruire.\r\n\r\nI volumi:\r\nRiccardo Calimani\r\nStoria degli ebrei italiani. Dalle origini al XVI secolo\r\nMondadori, 2013\r\n631 pp - 28 euro\r\n\r\nRiccardo Calimani\r\nStoria degli ebrei italiani. Dal XVI al XVIII secolo\r\nMondadori, 2014\r\n598 pp - 28 euro\r\n\r\nCondizioni d'uso\r\nPuoi ripubblicare questo materiale senza scopo di lucro e solo inserendo in calce la dicitura \"fonte: http:\/\/www.evangelici.net\/notizie\/1426081837.html\" (comprensiva di link). A titolo di cortesia si raccomanda la segnalazione della ripubblicazione a notizie@evangelici.net. La citazione parziale \u00e8 benvenuta, ma nel rispetto delle condizioni d'uso.\r\n\r\n- See more at: http:\/\/www.evangelici.net\/notizie\/1426081837.html#sthash.wvdbEzhr.dpuf"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/ffee2447b152494b43d9816faaea83c8.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Ebrei italiani, comunit\u00e0 distinta e integrata"
+		},
+		"porte-aperte-celebra-i-suoi-sessant-anni-tra-fede-e-coraggio":  {
+			"created": "2015-03-15 18:20:47",
+			"modified": "0000-00-00 00:00:00",
+			"hits": "1",
+			"access": "1",
+			"publish_up": "2015-03-15 18:20:47",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "news"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "VERONA - Sar\u00e0 il pastore Seraphim, siriano di Aleppo, l'ospite principale del 31.mo convegno di Porte Aperte, in programma dal 17 al 19 aprile a Torre Pedrera (Rimini).\r\n\r\nL\u2019appuntamento annuale proposto dalla principale organizzazione internazionale cristiana impegnata nel sostegno ai cristiani perseguitati si concentrer\u00e0 quest'anno sul tema \"Quando la fede diventa coraggio\" e si svilupper\u00e0 seguendo molteplici tracce.\r\n\r\nNel sessantennale della missione, una particolare attenzione verr\u00e0 dedicata agli sviluppi dell'impegno sul campo dai primi passi del 1955, quando Fratello Andrea varcava regolarmente in solitaria la Cortina di ferro per portare Bibbia nell'Europa dell'est, all'articolata attivit\u00e0 di oggi, che vede l'organizzazione presente in oltre sessanta Paesi del mondo, con migliaia di collaboratori e un'autorevolezza riconosciuta a livello globale dalle istituzioni internazionali e dai media.\r\nA parlarne sar\u00e0 Paul Estabrooks, autore e veterano di Porte Aperte-Open Doors, che offrir\u00e0 una prospettiva profonda sulla persecuzione negli ultimi decenni attraverso la sua esperienza diretta: da quando, nel 1981, rivest\u00ec il ruolo di coordinatore del leggendario Progetto Perla - che fece sbarcare un milione di Bibbie in Cina in una sola notte - allo sviluppo dei seminari \u201cResistere nella tempesta\u201d, di cui negli ultimi anni hanno beneficiato migliaia di cristiani perseguitati.\r\n\r\n\u00abUn altro versante su cui si focalizzer\u00e0 l'attenzione del convegno - aggiunge Cristian Nani, nuovo responsabile di Porte Aperte - \u00e8 l'area del Medio Oriente, e la presenza al nostro incontro del pastore Seraphim va in questa direzione: la Siria, prima tra tutti, sta vivendo una realt\u00e0 sconvolgente dove si intrecciano una sanguinosa opposizione popolare contro il regime di Assad e la guerra nei confronti del sedicente stato islamico, che partendo dall'Iraq ha gi\u00e0 acquisito sotto il suo controllo parti non indifferenti di territorio siriano\u00bb. In questo contesto il pastore Seraphim deve portare avanti un duplice impegno, dove la cura spirituale dei traumi psicologici e la predicazione del messaggio di speranza e pace contenuto nel vangelo si affianca alla regolare distribuzione di aiuti umanitari alla popolazione in una citt\u00e0, Aleppo, particolarmente provata dal doppio fronte siriano. \r\n\r\n\u00abOltre a questo - continua Nani - attraverso video, immagini, testimonianze e resoconti accompagneremo i partecipanti in un percorso teso a spiegare le ragioni per cui i cristiani liberi hanno bisogno di incontrare i perseguitati\u00bb.\r\n\r\nRestano confermati anche altri tre momenti ormai tradizionali del convegno: la serata di sabato prevede un concerto di lode con Giuseppe De Chirico, seguita dalla \"notte di preghiera\" e, nella mattinata conclusiva, un culto comune.\r\n\r\nCome ogni anno, inoltre, al convegno verr\u00e0 presentato un nuovo libro edito da Porte Aperte, che quest'anno avr\u00e0 la firma del fondatore della missione, Fratello Andrea.\r\n\r\n\u00abAnche quest'anno - conclude Nani - i lavori del convegno saranno ospitati presso l'Hotel Punta Nord di Torre Pedrera; i posti sono limitati e ogni anno purtroppo dobbiamo declinare qualche decina di richieste; per questo, basandoci sull'esperienza delle scorse edizioni, suggeriamo a chi intende partecipare di prenotare prima possibile\u00bb.\r\n\r\nPer informazioni e prenotazioni: tel. 045\/6631224; e-mail: info@porteaperteitalia.org.\r\n\r\nIl sito di Porte Aperte: http:\/\/www.porteaperteitalia.org - See more at: http:\/\/www.evangelici.net\/notizie\/1425639464.html#sthash.FWx2Ii3t.dpuf"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/ada9a09acea936d776a6f55c82778c43.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Porte Aperte celebra i suoi sessant'anni tra fede e coraggio"
+		},
+		"video-raccomandati":  {
+			"created": "2015-03-16 20:30:49",
+			"modified": "2015-03-16 20:37:51",
+			"hits": "5",
+			"access": "1",
+			"publish_up": "2015-03-16 20:30:49",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "multimedia"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "<video src=\"https:\/\/www.youtube.com\/watch?v=bWAzISRl8wY\" width=\"320\" height=\"240\"><\/video>\r\n\r\n\r\n<video width=\"540\" height=\"360\">  \r\n\t<source src=\"http:\/\/www.youtube.com\/embed\/H8E2Pa_kJgQ\" type=\"video\/youtube\" \/>    \r\n<\/video>\r\n\r\n<!--\r\n<a data-lightbox=\"on\" href=\"https:\/\/www.youtube.com\/watch?v=bWAzISRl8wY&autoplay=1\" title=\"Mimaki CJV30 Series\">Mimaki CJV30 Series<\/a> -->"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/9caa2793658f3cc387f216157300b1ce.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Video raccomandati"
+		},
+		"il-nostro-team":  {
+			"created": "2015-03-17 18:30:47",
+			"modified": "2015-03-17 21:47:44",
+			"hits": "21",
+			"access": "1",
+			"publish_up": "2015-03-17 18:30:47",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "organizzazione"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "{module 104}"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/184b7cb84d7b456c96a0bdfbbeaa5f14.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Il nostro team"
+		},
+		"test-modal":  {
+			"created": "2015-03-17 22:04:32",
+			"modified": "2015-03-17 22:25:23",
+			"hits": "21",
+			"access": "1",
+			"publish_up": "2015-03-17 22:04:32",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "organizzazione"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "{modal html=This text is entered right inside the modal tag.|title=Hello!}Show some inline text{\/modal}"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/d61d44254608dd06ccdd2ff02982d14d.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Test Modal"
+		},
+		"avevo-chiesto-a-dio-di-morire":  {
+			"created": "2015-03-21 11:44:11",
+			"modified": "2015-03-21 11:53:25",
+			"hits": "10",
+			"access": "1",
+			"publish_up": "2015-03-21 11:44:11",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "testimonianze"
+			},
+			"tags":  {
+
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "Sono nata nel Madagascar, la quarta di sette figli. Avevo 13 anni quando i miei genitori\r\nsi separarono. Ne risentii molto, anche perch\u00e9 mia madre mi trascurava, prediligendo i\r\nmiei fratelli e le mie sorelle."
+						},
+						"1":  {
+							"value": "\r\nEro giovane ma mi ero completamente ribellata a Dio. Non lo vedevo come un padre\r\namorevole, bens\u00ec come una personalit\u00e0 autoritaria e lontana.\r\nNonostante l\u2019assenza di mio padre, mia madre fece di tutto affinch\u00e9 noi figli potessimo\r\nstudiare. Io frequentai l\u2019universit\u00e0 e mi laureai in medicina.\r\nHo lavorato come medico, consacrando il resto del mio tempo a prendermi cura di mia\r\nmadre, che era relegata alla sedia a rotelle. Nonostante la sua malattia non fosse molto\r\ngrave, non sopportava che di tanto in tanto io passassi un po\u2019 di tempo da sola. Richiedeva\r\nuna presenza costante.\r\nMi sentivo prigioniera del lavoro all\u2019ospedale e delle continue esigenze di mia madre, ma non\r\nosavo lamentarmi o esprimere a mia madre il desiderio di portare a termine i miei studi di\r\nspecializzazione.\r\nIn un momento di completo scoraggiamento, chiesi a Dio di liberarmi da quella vita. E\r\navvenne un miracolo! Non so come, ma un giorno mia madre mi lasci\u00f2 libera di andare\r\nall\u2019estero e completare la mia specializzazione.\r\nNella Svizzera trovai subito un lavoro, ma la laura conseguita nel Madagascar non era\r\nriconosciuta. Quindi mi vidi costretta a lavorare per diverso tempo come assistente.\r\nEro infelice e avevo la sensazione di aver fallito tutto nella vita: gli studi, mia madre, il mio\r\nsoggiorno in Svizzera... In un momento di scoraggiamento dissi a Dio che desideravo morire.\r\nUn giorno mi recai alla libreria Casa della Bibbia di Ginevra per acquistare qualche libro, e\r\nvidi la pubblicit\u00e0 di alcuni gruppi di scambio chiamati \u201cLa bussola\u201d.\r\nCominciai a frequentare regolarmente quelle riunioni. Discutevamo di tutto, ma Ges\u00f9 era al\r\ncentro di ogni tema. Feci anche la conoscenza di una donna che gentilmente mi spieg\u00f2 che\r\nDio non \u00e8 una personalit\u00e0 autoritaria, bens\u00ec un padre amorevole che vuole aiutarmi ad\r\naffrontare la vita. Quella donna, diventata poi una delle mie migliori amiche, mi diede un libro\r\nda leggere: Una nuova identit\u00e0 per una nuova vita.\r\nLeggendolo capii che Dio aveva un piano anche per la mia vita e che voleva aiutarmi a\r\nrealizzarlo, a patto che lo lasciassi entrare nella mia vita e lo rendessi partecipe dei miei\r\nprogetti.\r\nE questo \u00e8 ci\u00f2 che ho fatto con molta gioia. Un passo dopo l\u2019altro Lui mi ha aiutato a trovare\r\nla pace interiore, il senso della vita e a realizzare i miei piani. \r\n<br class=\"um-hidden-small\">\r\n<em>Dott. Marie-Fran\u00e7oise Racontondrafara<\/em>"
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/e31ace2a15a7c70645ad83df9ecd43b0.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Avevo chiesto a Dio di morire..."
+		},
+		"a-volte-e-difficile":  {
+			"created": "2015-03-21 12:12:00",
+			"modified": "0000-00-00 00:00:00",
+			"hits": "1",
+			"access": "1",
+			"publish_up": "2015-03-21 12:12:00",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "meditazioni"
+			},
+			"tags":  {
+				"0": "difficile"
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "Rimettici i nostri debiti come anche noi li abbiamo rimessi ai nostri debitori\r\nMatteo 6:12\r\n\r\nCorrie ten Boom, nota evangelista olandese, era stata deportata dai nazisti e aveva\r\nsubito delle torture indicibili, sotto le quali perse la vita sua sorella. In seguito viaggi\u00f2\r\nper anni in tutto il mondo per condividere con le persone la buona notizia della grazia\r\ndi Dio, che vuole perdonare i peccatori perch\u00e9 Ges\u00f9 ha gi\u00e0 pagato per essi sulla\r\ncroce. Durante la visita in una prigione, rivide uno dei pi\u00f9 brutali carcerieri del\r\ncampo di concentramento dov\u2019era stata rinchiusa. Lui la riconobbe e le si avvicin\u00f2\r\ncon un gran sorriso, dicendole che Dio aveva perdonato le sue terribili colpe. Corrie\r\nrimase interdetta. Pensava a tutto il male che aveva procurato e alla malvagit\u00e0 di\r\nquesta persona e si chiedeva, se ottenere il perdono fosse davvero cosi semplice\u2026\r\nDopo essersi calmata e aver pregato, tutto le fu chiaro: \u201cS\u00ec, poteva davvero\r\nsuccedere!\u201d Con rinnovato coraggio prosegu\u00ec i suoi viaggi condividendo questo\r\nmeraviglioso messaggio. Scrisse addirittura una serie di libri a riguardo.\r\nDio perdona tutti, anche i peggiori peccatori. Il sacrificio di Suo Figlio ha per lui un\r\nvalore incommensurabile. Nessun uomo pu\u00f2 essere abbastanza cattivo da far s\u00ec che il\r\nprezzo pagato da Ges\u00f9 sulla croce non sia sufficiente. Nello stesso modo, nessun\r\nuomo \u00e8 buono abbastanza da poter fare a meno della grazia di Dio. E cosa diremo un\r\ngiorno davanti al trono del giudizio, se in vita abbiamo disprezzato la sua offerta\r\nd\u2019amore rinunciando alla sua giustizia? Non dovremmo forse prendere in\r\nconsiderazione la sua misericordia?\r\nE non dovremmo forse perdonare con tutto il cuore quelli che ci hanno fatto un torto?\r\nChi non \u00e8 disposto a farlo, dovrebbe rileggere con attenzione il versetto del giorno!\r\nArchivio\r\n\uf0b7 Per chi desideri che venga messa in conto giustizia invece che grazia?\r\n\uf0b7 Perch\u00e9 con il giudizio col quale giudicate, sarete giudicati. (Matteo 7:2)\r\nLuca 23:33-43"
+						},
+						"1":  {
+							"value": ""
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/c82cc4e14a1d2c8c8ffff9840d24b558.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "A volte \u00e8 difficile!"
+		},
+		"ci-vuole-silenzio-per-riflettere":  {
+			"created": "2015-03-21 12:12:50",
+			"modified": "2015-03-23 15:48:23",
+			"hits": "25",
+			"access": "1",
+			"publish_up": "2015-03-21 12:12:50",
+			"publish_down": "0000-00-00 00:00:00",
+			"author": "xmarlem",
+			"state": "1",
+			"categories":  {
+				"0": "meditazioni"
+			},
+			"tags":  {
+				"0": "silenzio",
+				"1": "riflettere"
+			},
+			"elements":  {
+				"0":  {
+					"type": "textarea",
+					"name": "content",
+					"data":  {
+						"0":  {
+							"value": "<article class=\"uk-article\">\r\n  <h1 class=\"uk-article-title\">\r\n\tCi vuole silenzio per riflettere  \r\n  <\/h1>\r\n  <p class=\"uk-article-meta\">\r\n    Oh, se faceste silenzio!\r\n    Esso vi sarebbe contato come saggezza - <i>Giobbe 13:5<\/i>\r\n  <\/p>\r\n  <p class=\"uk-article-lead\">\r\n  <\/p>\r\n  \r\nAl giorno d\u2019oggi \u00e8 molto importante stare \u201csempre connessi\u201d, essere sempre\r\nraggiungibili. Col cellulare, l\u2019Ipod e il pc portatile si pu\u00f2 avere un contatto\r\nvirtuale col mondo 24 ore su 24. E quando non si fa uso di questi dispositivi si\r\ntelefona, si mandano e-mail o sms continuamente, anche se spesso non si ha\r\nnulla di sensato da comunicare. Gli psicologi parlano di una dipendenza- e le\r\ndipendenze sono pericolose.\r\n"
+						},
+						"1":  {
+							"value": "\r\nIn Inghilterra si \u00e8 costituito un gruppo che si chiama \u201eTech-no\u201c. I suoi membri\r\nsono persone che decidono per un certo tempo di non fare uso dei dispositivi che\r\nli rendono schiavi, per guadagnare un po\u2019 di libert\u00e0 e avere del tempo per se\r\nstessi senza essere costantemente raggiungibili. Per un periodo di tempo pi\u00f9 o\r\nmeno lungo, decidono di spegnere tutto e godersi un po\u2018 di tranquillit\u00e0.\r\nChi riesce a farlo pu\u00f2 trovare del tempo prezioso per il coniuge, i figli e\r\nsoprattutto per Dio. Questi momenti di pace dedicati alla preghiera e alla lettura\r\ndella Parola sono indispensabili, quando proprio l\u2019unico vero collegamento\r\nvitale, quello col nostro Creatore, non dovrebbe essere interrotto. E questo\r\nsuccede sempre pi\u00f9 spesso, perch\u00e9 in mezzo al marasma di voci che provengono\r\ndal mondo, non riusciamo pi\u00f9 a distinguere la voce di Dio. Cos\u00ec ci succede\r\nquello che accade agli abitanti delle metropoli, che, a causa della cappa di smog,\r\nnon riescono pi\u00f9 a vedere le stelle in cielo.\r\nLe chiacchiere quotidiane non ci rendono pi\u00f9 saggi, anzi, rappresentano un\r\nostacolo. E se fosse proprio questo uno degli scopi dell\u2019inquinamento\r\ncomunicativo?\r\n<\/article>"
+						}
+					}
+				},
+				"1":  {
+					"type": "image",
+					"name": "image",
+					"data":  {
+						"file": "media\/k2\/items\/src\/3899dfe821816fbcb3db3e3b23f81585.jpg"
+					}
+				}
+			},
+			"group": "K2-Unassigned",
+			"name": "Ci vuole silenzio per riflettere"
+		}
+	}
+}

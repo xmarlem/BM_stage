@@ -778,7 +778,10 @@ div.k2TopCommentersBlock ul li span.tcLatestCommentDate {color:#999;}
 	Modules: mod_k2_content
 ----------------------------------------------------------------------*/
 
-div.k2ItemsBlock {}
+div.k2ItemsBlock {
+/*	font-size: large; */
+list-style: none;
+}
 
 div.k2ItemsBlock p.modulePretext {}
 
