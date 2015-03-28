@@ -233,6 +233,8 @@ if ($components)
 	 
 	foreach (array_slice($components, 0, $numcomp) as $component)
 	{
+		if($component->title == "COM_K2") continue;
+		
 		if (!empty($component->submenu))
 		{
 			// This component has a db driven submenu.
@@ -253,6 +255,8 @@ if ($components)
 	 
 	foreach (array_slice($components, $numcomp) as $component)
 	{
+		if($component->title == "COM_K2") continue;
+		
 		if (!empty($component->submenu))
 		{
 			// This component has a db driven submenu.
@@ -277,7 +281,38 @@ if ($components)
 /*
  * K2 --- byML
  */
-   
+// Get the authorised components and sub-menus.
+$componenti = ModMenuHelper::getComponents(true);
+// Check if there are any components, otherwise, don't render the menu
+if ($componenti)
+{
+  $menu->addChild(new JMenuNode("Contenuti (K2)", "#"), true);
+
+ 	foreach ($components as &$component)
+	{
+		//JFactory::getApplication()->enqueueMessage($component->title);
+		if($component->title == "COM_K2"){
+			if (!empty($component->submenu))
+			{
+				// This component has a db driven submenu.
+				$menu->addChild(new JMenuNode($component->text, $component->link, $component->img), true);
+				foreach ($component->submenu as $sub)
+				{
+					$menu->addChild(new JMenuNode($sub->text, $sub->link, $sub->img));
+				}
+				$menu->getParent();
+			}
+			else
+			{
+				$menu->addChild(new JMenuNode($component->text, $component->link, $component->img));
+			}
+		}
+	}
+	$menu->getParent();
+}   
+
+
+
 /*
  * Extensions Submenu
  */
