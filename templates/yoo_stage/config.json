@@ -970,6 +970,20 @@
 				"medium": "1",
 				"small": "1"
 			}
+		},
+		"137": {
+			"class": "",
+			"panel": "",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
 		}
 	},
 	"menus": {
@@ -1079,42 +1093,10 @@
 			"icon": "",
 			"subtitle": ""
 		},
-		"124": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"125": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"126": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"127": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"128": {
-			"icon": "",
-			"subtitle": ""
-		},
 		"132": {
 			"columns": "1",
 			"columnwidth": "",
 			"icon": "uk-icon-video-camera",
-			"subtitle": ""
-		},
-		"151": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"155": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"186": {
-			"icon": "",
 			"subtitle": ""
 		},
 		"229": {
@@ -1156,6 +1138,22 @@
 			"subtitle": ""
 		},
 		"312": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"313": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"314": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"315": {
 			"icon": "",
 			"subtitle": ""
 		}

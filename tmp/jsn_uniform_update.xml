@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensionset name="JoomlaShine Extensions" description="JoomlaShine Extensions Updates">
-	<extension name="JSN UniForm PRO STANDARD" element="com_uniform" type="component" client="administrator" version="3.1.4" detailsurl="" />
+	<extension name="JSN UniForm PRO STANDARD" element="com_uniform" type="component" client="administrator" version="3.1.5" detailsurl="" />
 </extensionset>

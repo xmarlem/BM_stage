@@ -9144,7 +9144,7 @@ a.tm-totop-scroller:active {
  ========================================================================== */
 .tm-fullscreen-image {
   background-position: 50% 50%;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;  
 }
 /* Phones */
 @media (max-width: 767px) {

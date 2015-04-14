@@ -3,3 +3,12 @@
 /* ========================================================================
    Use this file to add custom CSS easily
  ========================================================================== */
+ 
+/* [class*="tm-fullscreen"] [data-widgetkit],      */
+/* [class*="tm-fullscreen"] [data-widgetkit] > div,     */
+/* [class*="tm-fullscreen"] [data-widgetkit] > div > ul,     */
+/* [class*="tm-fullscreen"] [data-widgetkit] > div > ul > li {height:100%;} */
+
+/* byML - 14.4.2015 */
+
+[class*='tm-fullscreen-'] { height: 500px; }
