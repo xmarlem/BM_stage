@@ -300,3 +300,5 @@
 2015-04-14T18:03:27+00:00	INFO ::1	controller	Releasing edit ID com_advancedmodules.edit.module.70 Array ( ) 
 2015-04-14T18:03:44+00:00	INFO ::1	controller	Holding edit ID com_templates.edit.style.7 Array (     [0] => 7 ) 
 2015-04-14T18:03:45+00:00	INFO ::1	controller	Checking edit ID com_templates.edit.style.7: 1 Array (     [0] => 7 ) 
+2015-04-16T18:32:35+00:00	INFO ::1	controller	Holding edit ID com_menus.edit.item.315 Array (     [0] => 315 ) 
+2015-04-16T18:33:17+00:00	INFO ::1	controller	Holding edit ID com_menus.edit.item.315 Array (     [0] => 315 ) 
